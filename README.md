@@ -14,4 +14,4 @@ To add your own project below, just [edit](https://github.com/wwdc/2020/edit/mas
 | Name | Source |    Videos    | Technologies | Status |
 |------|--------|--------------|--------------|--------|
 |[Example](https://twitter.com/wwdcscholars)|[GitHub]()|[Youtube]()|SwiftUI, Core ML|Submitted|
-|[Nathaniel Fargo](https://paradox42.tech)|[Github](https://github.com/theParadox42/Black-Holes/tree/swift-project)| |CoreGraphics, SwiftUI, GKNoise]|Submitted|
+|[Nathaniel Fargo](https://paradox42.tech)|[Github](https://github.com/theParadox42/Black-Holes/tree/swift-project)| |CoreGraphics, SwiftUI, GKNoise|Submitted|
