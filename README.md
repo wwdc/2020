@@ -21,6 +21,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2020/edit/mas
 |[Henrik Storch](https://twitter.com/thisisthefoxe)|[GitHub](https://github.com/thisIsTheFoxe/WWDC20)|(later)|SpriteKit|Submitted|
 |[Jose Adolfo Talactac](https://twitter.com/joseadolfot)|[GitHub](https://github.com/jadolfot/LearnWithAR)|[YouTube](https://www.youtube.com/watch?v=vNZKRVPVzX4)|ARKit, SceneKit, SpriteKit, simd|Submitted|
 |[Julian Schiavo](https://twitter.com/_julianschiavo)|[GitHub](https://github.com/julianschiavo/wwdc/tree/master/2020)|[Youtube]()|ARKit, Combine, RealityKit, SwiftUI|Submitted|
+|[Liam Rosenfeld](https://liamrosenfeld.com)|[GitHub](https://github.com/liamrosenfeld/STFourierExplainer)||Accelerate, AVFoundation, CoreGraphics, SwiftUI|Submitted|
 |[Mohamed Salah](https://mohasalah.com)|[Github](https://github.com/mohasalahh/WWDC20-Scholarship-Submission)|[Youtube](https://youtu.be/-EOhFATLLt8)|SceneKit, ARKit, UIKit|Submitted|
 |[Nathaniel Fargo](https://paradox42.tech)|[Github](https://github.com/theParadox42/Black-Holes/tree/swift-project)| |CoreGraphics, SwiftUI, GKNoise|Submitted|
 |[Niklas Bülow](https://twitter.com/NiklasBuelow)|[GitHub](https://github.com/insightmind/WWDC20SwiftStudentChallenge)||SpriteKit, CoreImage, SIMD|Submitted|
