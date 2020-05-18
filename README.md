@@ -13,6 +13,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2020/edit/mas
 
 | Name | Source |    Videos    | Technologies | Status |
 |------|--------|--------------|--------------|--------|
+|[Alexander Zank](https://twitter.com/AlexLikePlus)|[GitHub](https://github.com/AlexLike/WWDC20Playground)|[YouTube](https://youtu.be/k_1tqM6LmV0)|SwiftUI, Combine, QuartzCore, SceneKit, Accelerate, ARKit|Submitted|
 |[Alexandru Turcanu](https://github.com/Pondorasti)||[Youtube](https://youtu.be/KyiXl2NFWHg)|SwiftUI, PencilKit, CoreML, AVFoundation |Submitted|
 |[Aurther Nadeem](https://www.instagram.com/aurther_nadeem/)|[GitHub](https://github.com/Aurther-Nadeem/WWDC2020)||ARKit, RealityKit, SwiftUI, AVFoundation, UIKit|Submitted|
 |[Christian P](https://twitter.com/Priva2804)||[Youtube](https://youtu.be/EwPspV8ZUp4)|SwiftUI, ARKit, SceneKit, Vision|Submitted|
