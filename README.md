@@ -13,7 +13,6 @@ To add your own project below, just [edit](https://github.com/wwdc/2020/edit/mas
 
 | Name | Source |    Videos    | Technologies | Status |
 |------|--------|--------------|--------------|--------|
-|[Example](https://twitter.com/wwdcscholars)|[GitHub]()|[Youtube]()|SwiftUI, Core ML|Submitted|
 |[Alexandru Turcanu](https://github.com/Pondorasti)||[Youtube](https://youtu.be/KyiXl2NFWHg)|SwiftUI, PencilKit, CoreML, AVFoundation |Submitted|
 |[Aurther Nadeem](https://www.instagram.com/aurther_nadeem/)|[GitHub](https://github.com/Aurther-Nadeem/WWDC2020)||ARKit, RealityKit, SwiftUI, AVFoundation, UIKit|Submitted|
 |[Julian Schiavo](https://twitter.com/_julianschiavo)|[GitHub](https://github.com/julianschiavo/wwdc/tree/master/2020)|[Youtube]()|ARKit, Combine, RealityKit, SwiftUI|Submitted|
