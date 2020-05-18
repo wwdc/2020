@@ -13,12 +13,22 @@ To add your own project below, just [edit](https://github.com/wwdc/2020/edit/mas
 
 | Name | Source |    Videos    | Technologies | Status |
 |------|--------|--------------|--------------|--------|
+|[Alexander Zank](https://twitter.com/AlexLikePlus)|[GitHub](https://github.com/AlexLike/WWDC20Playground)|[YouTube](https://youtu.be/k_1tqM6LmV0)|SwiftUI, SceneKit, Accelerate, ARKit|Submitted|
 |[Alexandru Turcanu](https://github.com/Pondorasti)||[Youtube](https://youtu.be/KyiXl2NFWHg)|SwiftUI, PencilKit, CoreML, AVFoundation |Submitted|
+|[Aryan Nambiar](https://twitter.com/ifisq)|[Github](https://github.com/ifisq/Build-A-Piano)||UIKit, AVFoundation|Submitted|
 |[Aurther Nadeem](https://www.instagram.com/aurther_nadeem/)|[GitHub](https://github.com/Aurther-Nadeem/WWDC2020)||ARKit, RealityKit, SwiftUI, AVFoundation, UIKit|Submitted|
-|[Christian P](https://twitter.com/Priva2804)||[Youtube](https://youtu.be/EwPspV8ZUp4)|SwiftUI, ARKit, SceneKit, Vision|Submitted|
+|[Benjamin Hutter](https://www.instagram.com/benjaminhtr/)|[GitHub](https://github.com/benjaminhtr/WWDC20)||UIKit, CoreML, Vision, AVFoundation|Submitted|
+|[Christian P](https://twitter.com/Priva2804)|[Github](https://github.com/Priva28/PlanetARium)|[Youtube](https://youtu.be/EwPspV8ZUp4)|SwiftUI, ARKit, SceneKit, Vision|Submitted|
+|[Hengyu Liu](https://www.instagram.com/a211212abc/)|[GitHub](https://github.com/a211212abc/WWDC20)||SwiftUI, ARKit, SpriteKit|Submitted|
+|[Henrik Storch](https://twitter.com/thisisthefoxe)|[GitHub](https://github.com/thisIsTheFoxe/WWDC20)|(later)|SpriteKit|Submitted|
+|[Jose Adolfo Talactac](https://twitter.com/joseadolfot)|[GitHub](https://github.com/jadolfot/LearnWithAR)|[YouTube](https://www.youtube.com/watch?v=vNZKRVPVzX4)|ARKit, SceneKit, SpriteKit, simd|Submitted|
 |[Julian Schiavo](https://twitter.com/_julianschiavo)|[GitHub](https://github.com/julianschiavo/wwdc/tree/master/2020)|[Youtube]()|ARKit, Combine, RealityKit, SwiftUI|Submitted|
+|[Mohamed Salah](https://mohasalah.com)|[Github](https://github.com/mohasalahh/WWDC20-Scholarship-Submission)|[Youtube](https://youtu.be/-EOhFATLLt8)|SceneKit, ARKit, UIKit|Submitted|
 |[Nathaniel Fargo](https://paradox42.tech)|[Github](https://github.com/theParadox42/Black-Holes/tree/swift-project)| |CoreGraphics, SwiftUI, GKNoise|Submitted|
 |[Niklas Bülow](https://twitter.com/NiklasBuelow)|[GitHub](https://github.com/insightmind/WWDC20SwiftStudentChallenge)||SpriteKit, CoreImage, SIMD|Submitted|
+|[Prajwal Kulkarni](https://www.instagram.com/prajwalkulkarni_/)|[GitHub](https://github.com/prajwalkulkarni/wwdc2020)|[Youtube](https://www.youtube.com/watch?v=VaLJvLJuMFM)|SwiftUI, SpriteKit|Submitted|
+|[Pushpinder Pal Singh](https://github.com/pushpinderpalsingh)|[GitHub](https://github.com/pushpinderpalsingh/CyberSense-WWDC20)||UIKit|Submitted|
+|[Rifqi R](http://rifqi.id/)|[GitHub](https://github.com/rif2d/dubsub20)|[Youtube](https://youtu.be/rS2Ln-JC-yQ)|SpriteKit, GameplayKit|Submitted|
 |[Roman Esin](https://twitter.com/EsinRomanSwift)||[Youtube](https://youtu.be/CZyZTzmclFs)|UIKit|Submitted|
 |[Valentino Cerutti](https://twitter.com/micrograx)|[GitHub](https://github.com/Micrograx/Emotions-WWDC20)||SwiftUI, AVFoundation|Submitted|
 |[Wendy Liga](https://twitter.com/wendyliga)|[GitHub](https://github.com/wendyliga/tunery)|[Youtube](https://youtu.be/L17PW6inUzw)|AVFoundation, UIKit|Submitted|
