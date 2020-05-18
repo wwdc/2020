@@ -14,4 +14,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2020/edit/mas
 | Name | Source |    Videos    | Technologies | Status |
 |------|--------|--------------|--------------|--------|
 |[Example](https://twitter.com/wwdcscholars)|[GitHub]()|[Youtube]()|SwiftUI, Core ML|Submitted|
+|[Alexandru Turcanu](https://github.com/Pondorasti)||[Youtube](https://youtu.be/KyiXl2NFWHg)|SwiftUI, PencilKit, CoreML, AVFoundation |Submitted|
 |[Aurther Nadeem](https://www.instagram.com/aurther_nadeem/)|[GitHub](https://github.com/Aurther-Nadeem/2020)||ARKit, RealityKit, SwiftUI, AVFoundation, UIKit|Submitted|
+|[Nathaniel Fargo](https://paradox42.tech)|[Github](https://github.com/theParadox42/Black-Holes/tree/swift-project)| |CoreGraphics, SwiftUI, GKNoise|Submitted|
+|[Niklas Bülow](https://twitter.com/NiklasBuelow)|[GitHub](https://github.com/insightmind/WWDC20SwiftStudentChallenge)||SpriteKit, CoreImage, SIMD|Submitted|
