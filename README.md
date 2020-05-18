@@ -19,6 +19,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2020/edit/mas
 |[Henrik Storch](https://twitter.com/thisisthefoxe)|[GitHub](https://github.com/thisIsTheFoxe/WWDC20)|(later)|SpriteKit|Submitted|
 |[Julian Schiavo](https://twitter.com/_julianschiavo)|[GitHub](https://github.com/julianschiavo/wwdc/tree/master/2020)|[Youtube]()|ARKit, Combine, RealityKit, SwiftUI|Submitted|
 |[Nathaniel Fargo](https://paradox42.tech)|[Github](https://github.com/theParadox42/Black-Holes/tree/swift-project)| |CoreGraphics, SwiftUI, GKNoise|Submitted|
+|[Mohamed Salah](https://mohasalah.com)|[Github](https://github.com/mohasalahh/WWDC20-Scholarship-Submission)|[Youtube](https://youtu.be/-EOhFATLLt8)|SceneKit, ARKit, UIKit|Submitted|
 |[Niklas Bülow](https://twitter.com/NiklasBuelow)|[GitHub](https://github.com/insightmind/WWDC20SwiftStudentChallenge)||SpriteKit, CoreImage, SIMD|Submitted|
 |[Valentino Cerutti](https://twitter.com/micrograx)|[GitHub](https://github.com/Micrograx/Emotions-WWDC20)||SwiftUI, AVFoundation|Submitted|
 |[Wendy Liga](https://twitter.com/wendyliga)|[GitHub](https://github.com/wendyliga/tunery)|[Youtube](https://youtu.be/L17PW6inUzw)|AVFoundation, UIKit|Submitted|
