@@ -2,6 +2,8 @@
 
 List of student submissions for the [WWDC 2020 Swift Student Challenge](https://developer.apple.com/wwdc20/swift-student-challenge/).
 
+Check out the [YouTube Playlist](https://www.youtube.com/playlist?list=PLZw7eGQJuMjlEcsJ0CgYtxQHgrw1t8aSc) to watch the submissions.
+
 To add your own project below, just [edit](https://github.com/wwdc/2020/edit/master/README.md) this file and submit a pull request! Please read the **PLEASE READ** section before submitting.
 
 <!-- PLEASE READ! -->
