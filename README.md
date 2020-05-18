@@ -50,4 +50,5 @@ To add your own project below, just [edit](https://github.com/wwdc/2020/edit/mas
 |[Til Blechschmidt](https://github.com/TilBlechschmidt)|[GitHub](https://github.com/TilBlechschmidt/BoidsPlayground)|[YouTube](https://youtu.be/dcuUWqUO91w)|Metal, SwiftUI, AVFoundation|Submitted|
 |[Valentino Cerutti](https://twitter.com/micrograx)|[GitHub](https://github.com/Micrograx/Emotions-WWDC20)||SwiftUI, AVFoundation|Submitted|
 |[Wendy Liga](https://twitter.com/wendyliga)|[GitHub](https://github.com/wendyliga/tunery)|[Youtube](https://youtu.be/L17PW6inUzw)|AVFoundation, UIKit|Submitted|
+|[William Taylor](https://twitter.com/wfltaylor)||[YouTube](https://youtu.be/TKM9Sut60fs)|UIKit, SceneKit, ARKit, AVFoundation|Submitted|
 |[Yihan Huang](https://busybunny.xyz/)|[GitHub](https://github.com/GetToSet/ArtOfAscii)||AVFoundation, Accelerate, UIKit|Submitted|
