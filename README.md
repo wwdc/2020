@@ -35,6 +35,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2020/edit/mas
 |[Pushpinder Pal Singh](https://github.com/pushpinderpalsingh)|[GitHub](https://github.com/pushpinderpalsingh/CyberSense-WWDC20)||UIKit|Submitted|
 |[Rifqi R](http://rifqi.id/)|[GitHub](https://github.com/rif2d/dubsub20)|[Youtube](https://youtu.be/rS2Ln-JC-yQ)|SpriteKit, GameplayKit|Submitted|
 |[Roman Esin](https://twitter.com/EsinRomanSwift)||[Youtube](https://youtu.be/CZyZTzmclFs)|UIKit|Submitted|
+|[Sylvain Guillier](http://sylvainguillier.com)||[Youtube](https://youtu.be/p1fMYYKdKQo)|SwiftUI, UIKit, SpriteKit, AVFoundation|Submitted|
 |[Thijs van der Heijden](https://twitter.com/thijsheijden)|[GitHub](https://github.com/thijsheijden/WWDC20)||UIKit|Submitted|
 |[Til Blechschmidt](https://github.com/TilBlechschmidt)|[GitHub](https://github.com/TilBlechschmidt/BoidsPlayground)|[YouTube](https://youtu.be/dcuUWqUO91w)|Metal, SwiftUI, AVFoundation|Submitted|
 |[Valentino Cerutti](https://twitter.com/micrograx)|[GitHub](https://github.com/Micrograx/Emotions-WWDC20)||SwiftUI, AVFoundation|Submitted|
