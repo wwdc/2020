@@ -35,6 +35,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2020/edit/mas
 |[Marlon Lückert](https://twitter.com/marlon360)|[GitHub](https://github.com/marlon360/wwdc20-submission)|[Youtube](https://www.youtube.com/watch?v=Yvs1eFle1sc)|SwiftUI, CoreML, PencilKit, ARKit|Submitted|
 |[Mohamed Salah](https://mohasalah.com)|[Github](https://github.com/mohasalahh/WWDC20-Scholarship-Submission)|[Youtube](https://youtu.be/-EOhFATLLt8)|SceneKit, ARKit, UIKit|Submitted|
 |[Nathaniel Fargo](https://paradox42.tech)|[Github](https://github.com/theParadox42/Black-Holes/tree/swift-project)| |CoreGraphics, SwiftUI, GKNoise|Submitted|
+|[Niall Kehoe](https://twitter.com/Niall_Kehoe)|[Youtube](https://www.youtube.com/watch?v=nbuuas18zgA)||ARKit, CoreML, CreateML, SpriteKit|Submitted|
 |[Niklas Bülow](https://twitter.com/NiklasBuelow)|[GitHub](https://github.com/insightmind/WWDC20SwiftStudentChallenge)||SpriteKit, CoreImage, SIMD|Submitted|
 |[Prajwal Kulkarni](https://www.instagram.com/prajwalkulkarni_/)|[GitHub](https://github.com/prajwalkulkarni/wwdc2020)|[Youtube](https://www.youtube.com/watch?v=VaLJvLJuMFM)|SwiftUI, SpriteKit|Submitted|
 |[Pushpinder Pal Singh](https://github.com/pushpinderpalsingh)|[GitHub](https://github.com/pushpinderpalsingh/CyberSense-WWDC20)||UIKit|Submitted|
