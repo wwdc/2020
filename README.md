@@ -29,6 +29,6 @@ To add your own project below, just [edit](https://github.com/wwdc/2020/edit/mas
 |[Prajwal Kulkarni](https://www.instagram.com/prajwalkulkarni_/)|[GitHub](https://github.com/prajwalkulkarni/wwdc2020)|[Youtube](https://www.youtube.com/watch?v=VaLJvLJuMFM)|SwiftUI, SpriteKit|Submitted|
 |[Pushpinder Pal Singh](https://github.com/pushpinderpalsingh)|[GitHub](https://github.com/pushpinderpalsingh/CyberSense-WWDC20)||UIKit|Submitted|
 |[Rifqi R](http://rifqi.id/)|[GitHub](https://github.com/rif2d/dubsub20)|[Youtube](https://youtu.be/rS2Ln-JC-yQ)|SpriteKit, GameplayKit|Submitted|
+|[Roman Esin](https://twitter.com/EsinRomanSwift)||[Youtube](https://youtu.be/CZyZTzmclFs)|UIKit|Submitted|
 |[Valentino Cerutti](https://twitter.com/micrograx)|[GitHub](https://github.com/Micrograx/Emotions-WWDC20)||SwiftUI, AVFoundation|Submitted|
 |[Wendy Liga](https://twitter.com/wendyliga)|[GitHub](https://github.com/wendyliga/tunery)|[Youtube](https://youtu.be/L17PW6inUzw)|AVFoundation, UIKit|Submitted|
-
