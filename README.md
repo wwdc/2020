@@ -34,6 +34,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2020/edit/mas
 |[João Gabriel](https://twitter.com/joogps)|[GitHub](https://github.com/joogps/WWDC-2020)| |SpriteKit, AVFoundation|Submitted|
 |[Jose Adolfo Talactac](https://twitter.com/joseadolfot)|[GitHub](https://github.com/jadolfot/LearnWithAR)|[YouTube](https://www.youtube.com/watch?v=vNZKRVPVzX4)|ARKit, SceneKit, SpriteKit, simd|Submitted|
 |[Julian Schiavo](https://twitter.com/_julianschiavo)|[GitHub](https://github.com/julianschiavo/wwdc/tree/master/2020)|[Youtube](https://www.youtube.com/watch?v=-m74x10IZS4)|ARKit, Combine, RealityKit, SwiftUI|Submitted|
+|Keith Madison||[YouTube](https://www.youtube.com/watch?v=D68MrqDGYAI)|UIKit, AVFoundation, NaturalLanguage, CoreML|Submitted|
 |[Liam Rosenfeld](https://liamrosenfeld.com)|[GitHub](https://github.com/liamrosenfeld/STFourierExplainer)||Accelerate, AVFoundation, CoreGraphics, SwiftUI|Submitted|
 |[Marlon Lückert](https://twitter.com/marlon360)|[GitHub](https://github.com/marlon360/wwdc20-submission)|[Youtube](https://www.youtube.com/watch?v=Yvs1eFle1sc)|SwiftUI, CoreML, PencilKit, ARKit|Submitted|
 |[Mohamed Salah](https://mohasalah.com)|[Github](https://github.com/mohasalahh/WWDC20-Scholarship-Submission)|[Youtube](https://youtu.be/-EOhFATLLt8)|SceneKit, ARKit, UIKit|Submitted|
