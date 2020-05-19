@@ -25,6 +25,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2020/edit/mas
 |[Benjamin Hutter](https://www.instagram.com/benjaminhtr/)|[GitHub](https://github.com/benjaminhtr/WWDC20)||UIKit, CoreML, Vision, AVFoundation|Submitted|
 |[Berkin Ceylan](https://twitter.com/BerkinCeylan)|[Github](https://github.com/berkinceylan/WWDC20)||SwiftUI|Submitted|
 |[Bruno Pastre](https://instagram.com/pastresome)|[Github](https://github.com/pastre/wwdc2020)|[Youtube](https://www.youtube.com/watch?v=5ewAP9lBV40)|SpriteKit|Submitted|
+|[Can Balkaya](https://twitter.com/canbalkya)|[Github](https://github.com/canbalkya/Evape-WWDC20)|[YouTube](Later)|SwiftUI|Submitted|
 |[Christian P](https://twitter.com/Priva2804)|[Github](https://github.com/Priva28/PlanetARium)|[Youtube](https://youtu.be/EwPspV8ZUp4)|SwiftUI, ARKit, SceneKit, Vision|Submitted|
 |[Dave Jha](https://www.davejha.me)|[GitHub](https://github.com/DaveJha/Social-Distancing-Simulator)||SwiftUI, SpriteKit|Submitted|
 |[Deniz Karakay](https://www.instagram.com/sedna_karakay)|[Github](https://github.com/dkarakay/Stop-Pandemic)||SpriteKit, AVFoundation, SwiftUI|Submitted|
