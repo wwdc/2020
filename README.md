@@ -43,6 +43,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2020/edit/mas
 |[Niklas Bülow](https://twitter.com/NiklasBuelow)|[GitHub](https://github.com/insightmind/WWDC20SwiftStudentChallenge)||SpriteKit, CoreImage, SIMD|Submitted|
 |[Prajwal Kulkarni](https://www.instagram.com/prajwalkulkarni_/)|[GitHub](https://github.com/prajwalkulkarni/wwdc2020)|[Youtube](https://www.youtube.com/watch?v=VaLJvLJuMFM)|SwiftUI, SpriteKit|Submitted|
 |[Pushpinder Pal Singh](https://github.com/pushpinderpalsingh)|[GitHub](https://github.com/pushpinderpalsingh/CyberSense-WWDC20)||UIKit|Submitted|
+|[Renan Magagnin](https://www.instagram.com/renanmagagnin/)|[GitHub](https://github.com/renanmagagnin/beat-wwdc20)|[Youtube](https://youtu.be/ayVB08sXtZY)|SpriteKit, AVFoundation|Submitted|
 |[Rifqi R](http://rifqi.id/)|[GitHub](https://github.com/rif2d/dubsub20)|[Youtube](https://youtu.be/rS2Ln-JC-yQ)|SpriteKit, GameplayKit|Submitted|
 |[Roman Esin](https://twitter.com/EsinRomanSwift)||[Youtube](https://youtu.be/CZyZTzmclFs)|UIKit|Submitted|
 |[Roman Rakhlin](https://www.instagram.com/rrakhlin/)|[GitHub](https://github.com/romarakhlin/WWDC20-Submission)|[Youtube](https://www.youtube.com/watch?v=i3y5k_khW_I)|UIKit, SceneKit, SpriteKit|Submitted|
