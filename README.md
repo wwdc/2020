@@ -40,6 +40,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2020/edit/mas
 |[Henrik Storch](https://twitter.com/thisisthefoxe)|[GitHub](https://github.com/thisIsTheFoxe/WWDC20)|(later)|SpriteKit|Submitted|
 |[Ihwan D](https://ihwan.id)|[GitHub](https://github.com/IhwanID/wwdc20-rice-cooker-hack)|[YouTube](https://youtu.be/0fgdYEAn6MQ)|SwiftUI, AVFoundation|Submitted|
 |[Jaesung Lee](https://github.com/jaesung-wwdc)|||ARKit, SceneKit, UIKit, AVFoundation|Submitted|
+|[Jalp Desai](https://github.com/jalp14/WWDC20)|||SwiftUI, SpriteKit, UIKit |Submitted|
 |[Jannik Schwade](https://twitter.com/jannik_schwade)|[GitHub](https://github.com/jannikschwade/wwdc20)|[YouTube](https://www.youtube.com/watch?v=bY32gZBbTS8)|SpriteKit, UIKit|Submitted|
 |[João Gabriel](https://twitter.com/joogps)|[GitHub](https://github.com/joogps/WWDC-2020)| |SpriteKit, AVFoundation|Submitted|
 |[Jose Adolfo Talactac](https://twitter.com/joseadolfot)|[GitHub](https://github.com/jadolfot/LearnWithAR)|[YouTube](https://www.youtube.com/watch?v=vNZKRVPVzX4)|ARKit, SceneKit, SpriteKit, simd|Submitted|
