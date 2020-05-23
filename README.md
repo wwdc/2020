@@ -66,6 +66,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2020/edit/mas
 |[Rodrigo Giglio](https://www.instagram.com/rodrigowoulddo/)|[GitHub](https://github.com/rodrigowoulddo/WWDC-2020-The-Bacteria-Adventure)|[YouTube](https://youtu.be/odCptJ5_-_E)|SpriteKit|Submitted
 |[Roman Esin](https://twitter.com/EsinRomanSwift)||[Youtube](https://youtu.be/CZyZTzmclFs)|UIKit|Submitted|
 |[Roman Rakhlin](https://www.instagram.com/rrakhlin/)|[GitHub](https://github.com/romarakhlin/WWDC20-Submission)|[Youtube](https://www.youtube.com/watch?v=i3y5k_khW_I)|UIKit, SceneKit, SpriteKit|Submitted|
+|[Renata Faria](http://renatafariagomes.wordpress.com/)|[GitHub](https://github.com/xReee/WWDC2020)|[Youtube](https://www.youtube.com/watch?v=fZ3ilbJx5_8)|UIKit, GameplayKit, AVKit |Submitted|
 |[Sylvain Guillier](http://sylvainguillier.com)||[Youtube](https://youtu.be/p1fMYYKdKQo)|SwiftUI, UIKit, SpriteKit, AVFoundation|Submitted|
 |[Swapnanil Dhol](https://twitter.com/SwapnanilDhol)|[GitHub](https://github.com/SwapnanilDhol/Strokes)|[Youtube](https://www.youtube.com/watch?v=2k72tGpKbpo)|ARKit, RealityKit, Core ML, Create ML|Submitted|
 |[Thijs van der Heijden](https://twitter.com/thijsheijden)|[GitHub](https://github.com/thijsheijden/WWDC20)||UIKit|Submitted|
