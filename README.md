@@ -82,3 +82,4 @@ To add your own project below, just [edit](https://github.com/wwdc/2020/edit/mas
 |[Yangyang Feng](https://ifffff.cn/)|[GitHub](https://github.com/CynricFeng/Papercutting)|[YouTube](https://youtu.be/QxQufi4qQm4)|AppKit, Vision, SpriteKit, AVFoundation|Submitted|
 |[Yihan Huang](https://busybunny.xyz/)|[GitHub](https://github.com/GetToSet/ArtOfAscii)||AVFoundation, Accelerate, UIKit|Submitted|
 |[Yow Shin Liou](https://www.instagram.com/yo_zn/)|[GitHub](https://github.com/yozn/wwdc20)|[YouTube](https://youtu.be/qHv2Xpb3tdQ)|SpriteKit, AVFoundation, UIKit|Submitted|
+|[Sai Vivek Amirishetty](https://twitter.com/SAI_VIVEK_)|[GitHub](https://github.com/vivekboss99/WWDC-2020)|UIKit|Submitted|
