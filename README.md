@@ -69,6 +69,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2020/edit/mas
 |[Rodrigo Giglio](https://www.instagram.com/rodrigowoulddo/)|[GitHub](https://github.com/rodrigowoulddo/WWDC-2020-The-Bacteria-Adventure)|[YouTube](https://youtu.be/odCptJ5_-_E)|SpriteKit|Submitted
 |[Roman Esin](https://twitter.com/EsinRomanSwift)||[Youtube](https://youtu.be/CZyZTzmclFs)|UIKit|Submitted|
 |[Roman Rakhlin](https://www.instagram.com/rrakhlin/)|[GitHub](https://github.com/romarakhlin/WWDC20-Submission)|[Youtube](https://www.youtube.com/watch?v=i3y5k_khW_I)|UIKit, SceneKit, SpriteKit|Submitted|
+|[Sai Vivek Amirishetty](https://twitter.com/SAI_VIVEK_)|[GitHub](https://github.com/vivekboss99/WWDC-2020)| |UIKit|Submitted|
 |[Sylvain Guillier](http://sylvainguillier.com)||[Youtube](https://youtu.be/p1fMYYKdKQo)|SwiftUI, UIKit, SpriteKit, AVFoundation|Submitted|
 |[Swapnanil Dhol](https://twitter.com/SwapnanilDhol)|[GitHub](https://github.com/SwapnanilDhol/Strokes)|[Youtube](https://www.youtube.com/watch?v=2k72tGpKbpo)|ARKit, RealityKit, Core ML, Create ML|Submitted|
 |[Thijs van der Heijden](https://twitter.com/thijsheijden)|[GitHub](https://github.com/thijsheijden/WWDC20)||UIKit|Submitted|
@@ -82,4 +83,4 @@ To add your own project below, just [edit](https://github.com/wwdc/2020/edit/mas
 |[Yangyang Feng](https://ifffff.cn/)|[GitHub](https://github.com/CynricFeng/Papercutting)|[YouTube](https://youtu.be/QxQufi4qQm4)|AppKit, Vision, SpriteKit, AVFoundation|Submitted|
 |[Yihan Huang](https://busybunny.xyz/)|[GitHub](https://github.com/GetToSet/ArtOfAscii)||AVFoundation, Accelerate, UIKit|Submitted|
 |[Yow Shin Liou](https://www.instagram.com/yo_zn/)|[GitHub](https://github.com/yozn/wwdc20)|[YouTube](https://youtu.be/qHv2Xpb3tdQ)|SpriteKit, AVFoundation, UIKit|Submitted|
-|[Sai Vivek Amirishetty](https://twitter.com/SAI_VIVEK_)|[GitHub](https://github.com/vivekboss99/WWDC-2020)| |UIKit|Submitted|
+
