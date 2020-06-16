@@ -89,7 +89,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2020/edit/mas
 |[Sylvain Guillier](http://sylvainguillier.com)||[Youtube](https://youtu.be/p1fMYYKdKQo)|SwiftUI, UIKit, SpriteKit, AVFoundation|Submitted|
 |[Swapnanil Dhol](https://twitter.com/SwapnanilDhol)|[GitHub](https://github.com/SwapnanilDhol/Strokes)|[Youtube](https://www.youtube.com/watch?v=2k72tGpKbpo)|ARKit, RealityKit, Core ML, Create ML|Submitted|
 |[Thijs van der Heijden](https://twitter.com/thijsheijden)|[GitHub](https://github.com/thijsheijden/WWDC20)||UIKit|Submitted|
-|[Til Blechschmidt](https://github.com/TilBlechschmidt)|[GitHub](https://github.com/TilBlechschmidt/BoidsPlayground)|[YouTube](https://youtu.be/dcuUWqUO91w)|Metal, SwiftUI, AVFoundation|Submitted|
+|[Til Blechschmidt](https://github.com/TilBlechschmidt)|[GitHub](https://github.com/TilBlechschmidt/BoidsPlayground)|[YouTube](https://youtu.be/dcuUWqUO91w)|Metal, SwiftUI, AVFoundation|Accepted|
 |[Uladzislau Tarasevich](https://github.com/Sencudra)|[GitHub](https://github.com/Sencudra/WWDC-2020)|[YouTube](https://youtu.be/-gmsWnv3UZ8)|SpriteKit, AVFoundation|Submitted|
 |[Valentino Cerutti](https://twitter.com/micrograx)|[GitHub](https://github.com/Micrograx/Emotions-WWDC20)||SwiftUI, AVFoundation|Submitted|
 |[Wendy Liga](https://twitter.com/wendyliga)|[GitHub](https://github.com/wendyliga/tunery)|[Youtube](https://youtu.be/L17PW6inUzw)|AVFoundation, UIKit|Submitted|
