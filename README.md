@@ -55,6 +55,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2020/edit/mas
 |[Kanishka Chaudhry](https://www.instagram.com/ralaasi/)|[GitHub](https://github.com/Kanishka3/SwiftStudentChallenge2020)|[Youtube](https://youtu.be/G87_5RRhB9g)|SwiftUI, UIKit, AVFoundation, Combine|Submitted|
 |Keith Madison||[YouTube](https://www.youtube.com/watch?v=D68MrqDGYAI)|UIKit, AVFoundation, NaturalLanguage, CoreML|Submitted|
 |[Liam Rosenfeld](https://liamrosenfeld.com)|[GitHub](https://github.com/liamrosenfeld/STFourierExplainer)||Accelerate, AVFoundation, CoreGraphics, SwiftUI|Submitted|
+|[LiulietLee](https://github.com/LiulietLee)|[GitHub](https://github.com/LiulietLee/nn-playground)||SwiftUI, Combine, MetalPerformanceShaders|Accepted|
 |[Louise P.](https://github.com/lpieri)|[GitHub](https://github.com/lpieri/Meep)||SpriteKit, AVFoundation|Submitted|
 |[Maria Fernanda Azolin](https://www.instagram.com/mfernanda_azolin/)|[GitHub](https://github.com/azolinmf/aPathToTheLight-playgroundBook)|[Youtube](https://www.youtube.com/watch?v=p7y_d-d1B-0)|SpriteKit, UIKit|Submitted|
 |[Mariana Beilune Abad](https://www.linkedin.com/in/mariana-abad/)|[GitHub](https://github.com/maaryhabad/armenia)|[Youtube](https://www.youtube.com/watch?v=G4w_gSMjiyQ)|SceneKit|Submitted|
