@@ -29,6 +29,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2020/edit/mas
 |[Berkin Ceylan](https://twitter.com/BerkinCeylan)|[Github](https://github.com/berkinceylan/WWDC20)|[Youtube](https://www.youtube.com/watch?v=uN7Ea_Ihduw)|SwiftUI|Submitted|
 |[Bryanza Novirahman](https://twitter.com/bnrvideos)|[GitHub](https://github.com/bryanzanr/go-cli)|[Youtube](https://www.youtube.com/watch?v=yIZjEuULFos)|SwiftUI|Submitted|
 |[Bruno Pastre](https://instagram.com/pastresome)|[Github](https://github.com/pastre/wwdc2020)|[Youtube](https://www.youtube.com/watch?v=5ewAP9lBV40)|SpriteKit|Submitted|
+|[Cameron Bernhardt](https://twitter.com/AstroCB)|[GitHub](https://github.com/AstroCB/Swift-COVID)||AppKit, MapKit|Submitted|
 |[Can Balkaya](https://twitter.com/canbalkya)|[Github](https://github.com/canbalkya/Evape-WWDC20)|[YouTube](https://www.youtube.com/watch?v=QMQnLFypW3Y)|SwiftUI|Submitted|
 |[Christian P](https://twitter.com/Priva2804)|[Github](https://github.com/Priva28/PlanetARium)|[Youtube](https://youtu.be/EwPspV8ZUp4)|SwiftUI, ARKit, SceneKit, Vision|Submitted|
 |[Dave Jha](https://www.davejha.me)|[GitHub](https://github.com/DaveJha/Social-Distancing-Simulator)||SwiftUI, SpriteKit|Submitted|
