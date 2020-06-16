@@ -21,7 +21,6 @@ To add your own project below, just [edit](https://github.com/wwdc/2020/edit/mas
 |[Alkan Caner](https://github.com/AlkanCaner)|[GitHub](https://github.com/AlkanCaner/InteractivePicture)|[Youtube](https://www.youtube.com/watch?v=Ght67Ks1Wtg)|SwiftUI|Submitted|
 |[Alvin Hsueh](https://www.instagram.com/qazqwe0922/)|[GitHub](https://github.com/HaXAlvin/WWDC20)||SpriteKit, Foundation, UIKit|Accepted|
 |[Arjun Dureja](https://www.instagram.com/arjun874)|[GitHub](https://github.com/Arjun-dureja/WWDC-Swift-Student-Challenge)|[YouTube](https://www.youtube.com/watch?v=5zoE_7nQ1N4)|UIKit|Accepted|
-|[Artemas J. Radik](https://www.instagram.com/aj_radik/)|[GitHub](https://github.com/magnesiumm/WWDC20-Swift-Student-Challenge)||UIKit|Accepted|
 |[Arved Viehweger](https://twitter.com/arvedviehweger)||[YouTube](https://www.youtube.com/watch?v=y7FjFwVwM08&feature=youtu.be)|ARKit, SceneKit, UIKit, AVFoundation|Submitted|
 |[Aryan Nambiar](https://twitter.com/ifisq)|[Github](https://github.com/ifisq/Build-A-Piano)||UIKit, AVFoundation|Submitted|
 |[Ataberk Turan](https://twitter.com/ataberk_trn)|[Github](https://github.com/ataberkturan/LalopathyAI)||SwiftUI, CoreML, Combine|Submitted|
@@ -37,6 +36,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2020/edit/mas
 |[Cay Zhang](https://github.com/Cay-Zhang)|[GitHub](https://github.com/Cay-Zhang/SwiftStudentChallenge2020)||SpriteKit, Combine|Accepted|
 |[Christian P](https://twitter.com/Priva2804)|[Github](https://github.com/Priva28/PlanetARium)|[Youtube](https://youtu.be/EwPspV8ZUp4)|SwiftUI, ARKit, SceneKit, Vision|Submitted|
 |[Dave Jha](https://www.davejha.me)|[GitHub](https://github.com/DaveJha/Social-Distancing-Simulator)||SwiftUI, SpriteKit|Submitted|
+|[Daniel Liu](https://liudaniel.com/)|[GitHub](https://github.com/Daniel-Liu-c0deb0t/WWDC-2020-Coronavirus-Comparison)|[Youtube](https://youtu.be/X12SKO0wGwg)|UIKit|Accepted|
 |[Daniel (Shao Cheng) Pan](https://github.com/Majestic-Hero)|[GitHub](https://github.com/Majestic-Hero/WWDC-2020-Submission)|[Youtube](https://www.youtube.com/watch?v=eyAY9Dkrsak)|SpriteKit, UIKit|Submitted|
 |[Deniz Karakay](https://www.instagram.com/sedna_karakay)|[Github](https://github.com/dkarakay/Stop-Pandemic)||SpriteKit, AVFoundation, SwiftUI|Submitted|
 |[Devi Mandasari](https://www.instagram.com/devimandas14)|[Github](https://github.com/devimandas/WWDC20-Gonggong)|[Youtube](https://www.youtube.com/watch?v=DNXkG2Ow4ZY)|SpriteKit, AVFoundation|Submitted|
