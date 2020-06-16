@@ -82,6 +82,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2020/edit/mas
 |[Pranav Karthik](https://twitter.com/code_pranav)|[GitHub](https://github.com/pranavkarthik10/exercisAR)|[Youtube](https://youtu.be/SYeBaYsg_ZY)|UIKit, ARKit, Foundation|Accepted|
 |[Praveen Balakrishnan](https://github.com/xp3d1)|[GitHub](https://github.com/xp3d1/Swift-Student-Challenge-Entry)|[YouTube](https://youtu.be/gsDKYLWAMpU)|SwiftUI, SceneKit, AVFoundation|Approved|
 |[Pushpinder Pal Singh](https://github.com/pushpinderpalsingh)|[GitHub](https://github.com/pushpinderpalsingh/CyberSense-WWDC20)||UIKit|Submitted|
+|[Rafael Ferreira](https://github.com/Rafaelfferreira)|[GitHub](https://github.com/Rafaelfferreira/DiseaseSimulator)||UIKit|Accepted|
 |[Ritesh Kanchi](https://github.com/ritesh-kanchi/)|[GitHub](https://github.com/ritesh-kanchi/WWDC20-Submission)||SwiftUI|Submitted|
 |[Renan Magagnin](https://www.instagram.com/renanmagagnin/)|[GitHub](https://github.com/renanmagagnin/beat-wwdc20)|[Youtube](https://youtu.be/ayVB08sXtZY)|SpriteKit, AVFoundation|Accepted|
 |[Renata Faria](http://renatafariagomes.wordpress.com/)|[GitHub](https://github.com/xReee/WWDC2020)|[Youtube](https://www.youtube.com/watch?v=fZ3ilbJx5_8)|UIKit, GameplayKit, AVKit |Submitted|
