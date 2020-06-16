@@ -102,7 +102,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2020/edit/mas
 |[Veit Progl](https://twitter.com/VoxelVoxels)|[GitHub](https://github.com/Veeit/WWDC-2020-Learning-Disability)|[Youtube](https://youtu.be/8qhFrv4MEPg)|SwiftUI, SceneKit, ARKit,CoreML |Accepted|
 |Xi Zhao|[GitHub](https://github.com/ZXXZ00/WWDC20)|[YouTube](https://youtu.be/RMyHlFH0348)|CoreMotion, SpriteKit|Submitted|
 |[Yangyang Feng](https://ifffff.cn/)|[GitHub](https://github.com/CynricFeng/Papercutting)|[YouTube](https://youtu.be/QxQufi4qQm4)|AppKit, Vision, SpriteKit, AVFoundation|Submitted|
-|[Yihan Huang](https://busybunny.xyz/)|[GitHub](https://github.com/GetToSet/ArtOfAscii)||AVFoundation, Accelerate, UIKit|Submitted|
+|[Yihan Huang](https://busybunny.xyz/)|[GitHub](https://github.com/GetToSet/ArtOfAscii)||AVFoundation, Accelerate, UIKit|Accepted|
 |[YiZhong Qi](https://github.com/qyz777)|[GitHub](https://github.com/qyz777/AcousticShip)||AVFoundation, UIKit|Submitted|
 |[Yow Shin Liou](https://www.instagram.com/yo_zn/)|[GitHub](https://github.com/yozn/wwdc20)|[YouTube](https://youtu.be/qHv2Xpb3tdQ)|SpriteKit, AVFoundation, UIKit|Submitted|
 |[Zafar Ivaev](https://github.com/zafarivaev)|[GitHub](https://github.com/zafarivaev/WWDC20-FigureBreaker)||Combine, UIKit, SceneKit, SpriteKit|Accepted|
