@@ -15,6 +15,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2020/edit/mas
 
 | Name | Source |    Videos    | Technologies | Status |
 |------|--------|--------------|--------------|--------|
+|[Euan Traynor](https://twitter.com/EuanFTraynor)|[GitHub](https://github.com/efalloon/WWDC20Playground)|UIKit, Foundation|Accepted|
 |[Ailton Vieira Pinto Filho](https://twitter.com/ailtonvivaz)|[GitHub](https://github.com/ailtonvivaz/WWDC20Playground)|[YouTube](https://youtu.be/Epffk-v0Oww)|UIKit|Accepted|
 |[Alexander Zank](https://twitter.com/AlexLikePlus)|[GitHub](https://github.com/AlexLike/WWDC20Playground)|[YouTube](https://youtu.be/k_1tqM6LmV0)|SwiftUI, SceneKit, Accelerate, ARKit|Submitted|
 |[Alexandru Turcanu](https://github.com/Pondorasti)|[Github](https://github.com/Pondorasti/SimonDraws)|[Youtube](https://youtu.be/KyiXl2NFWHg)|SwiftUI, PencilKit, CoreML, AVFoundation|Accepted|
