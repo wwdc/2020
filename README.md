@@ -82,7 +82,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2020/edit/mas
 |[Robert Pliev](https://github.com/camotsuc)|[GitHub](https://github.com/camotsuc/wwdc20ChallengeAttempt)||UIKit, Foundation|Submitted|
 |[Sabesh Bharathi](https://twitter.com/sabeshbharathi)|[GitHub](https://github.com/programVeins/Pandemic)|[Youtube](https://www.youtube.com/watch?v=_wSukFJu3I4)|UIKit, AVFoundation|Submitted|
 |[Sai Vivek Amirishetty](https://twitter.com/SAI_VIVEK_)|[GitHub](https://github.com/vivekboss99/WWDC-2020)| |UIKit|Submitted|
-|[Sufiandy Elmy](https://www.instagram.com/elmysf__/)|[GitHub](https://github.com/elmysf/DisinfectantAttackCovid-19)|[Youtube](https://www.youtube.com/channel/UCk2SRwI316dh9OhYwpxIzPg)|SpriteKit|Submitted|
+|[Sufiandy Elmy](https://www.instagram.com/elmysf__/)|[GitHub](https://github.com/elmysf/DisinfectantAttackCovid-19)|[Youtube](https://www.youtube.com/channel/UCk2SRwI316dh9OhYwpxIzPg)|SpriteKit,AVFoundation|Submitted|
 |[Sylvain Guillier](http://sylvainguillier.com)||[Youtube](https://youtu.be/p1fMYYKdKQo)|SwiftUI, UIKit, SpriteKit, AVFoundation|Submitted|
 |[Swapnanil Dhol](https://twitter.com/SwapnanilDhol)|[GitHub](https://github.com/SwapnanilDhol/Strokes)|[Youtube](https://www.youtube.com/watch?v=2k72tGpKbpo)|ARKit, RealityKit, Core ML, Create ML|Submitted|
 |[Thijs van der Heijden](https://twitter.com/thijsheijden)|[GitHub](https://github.com/thijsheijden/WWDC20)||UIKit|Submitted|
