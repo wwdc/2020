@@ -19,7 +19,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2020/edit/mas
 |[Alexandru Turcanu](https://github.com/Pondorasti)|[Github](https://github.com/Pondorasti/SimonDraws)|[Youtube](https://youtu.be/KyiXl2NFWHg)|SwiftUI, PencilKit, CoreML, AVFoundation|Submitted|
 |[Alkan Caner](https://github.com/AlkanCaner)|[GitHub](https://github.com/AlkanCaner/InteractivePicture)|[Youtube](https://www.youtube.com/watch?v=Ght67Ks1Wtg)|SwiftUI|Submitted|
 |[Alvin Hsueh](https://www.instagram.com/qazqwe0922/)|[GitHub](https://github.com/HaXAlvin/WWDC20)||SpriteKit, Foundation, UIKit|Submitted|
-|[Arjun Dureja](https://www.instagram.com/arjun874)|[GitHub](https://github.com/Arjun-dureja/WWDC-Swift-Student-Challenge)|[YouTube](https://www.youtube.com/watch?v=5zoE_7nQ1N4)|UIKit|Submitted|
+|[Arjun Dureja](https://www.instagram.com/arjun874)|[GitHub](https://github.com/Arjun-dureja/WWDC-Swift-Student-Challenge)|[YouTube](https://www.youtube.com/watch?v=5zoE_7nQ1N4)|UIKit|Accepted|
 |[Arved Viehweger](https://twitter.com/arvedviehweger)||[YouTube](https://www.youtube.com/watch?v=y7FjFwVwM08&feature=youtu.be)|ARKit, SceneKit, UIKit, AVFoundation|Submitted|
 |[Aryan Nambiar](https://twitter.com/ifisq)|[Github](https://github.com/ifisq/Build-A-Piano)||UIKit, AVFoundation|Submitted|
 |[Ataberk Turan](https://twitter.com/ataberk_trn)|[Github](https://github.com/ataberkturan/LalopathyAI)||SwiftUI, CoreML, Combine|Submitted|
