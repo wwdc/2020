@@ -26,7 +26,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2020/edit/mas
 |[Ataberk Turan](https://twitter.com/ataberk_trn)|[Github](https://github.com/ataberkturan/LalopathyAI)||SwiftUI, CoreML, Combine|Submitted|
 |[Aurther Nadeem](https://www.instagram.com/aurther_nadeem/)|[GitHub](https://github.com/Aurther-Nadeem/WWDC2020)||ARKit, RealityKit, SwiftUI, AVFoundation|Submitted|
 |[Baskoro Indrayana](https://github.com/baskoroi)|[GitHub](https://github.com/baskoroi/wwdc20-submission)|[YouTube](https://youtu.be/pU6q3clW3w8)|SwiftUI, Combine|Submitted|
-|[Bartłomiej Pluta](https://github.com/bpluta)|[GitHub](https://github.com/bpluta/Artyficial-Camera)||SwiftUI, CoreML, AVFoundation|Submitted|
+|[Bartłomiej Pluta](https://github.com/bpluta)|[GitHub](https://github.com/bpluta/Artyficial-Camera)||SwiftUI, CoreML, AVFoundation|Rejected|
 |[Benjamin Hutter](https://www.instagram.com/benjaminhtr/)|[GitHub](https://github.com/benjaminhtr/WWDC20)||UIKit, CoreML, Vision, AVFoundation|Submitted|
 |[Berkin Ceylan](https://twitter.com/BerkinCeylan)|[Github](https://github.com/berkinceylan/WWDC20)|[Youtube](https://www.youtube.com/watch?v=uN7Ea_Ihduw)|SwiftUI|Submitted|
 |[Bryanza Novirahman](https://twitter.com/bnrvideos)|[GitHub](https://github.com/bryanzanr/go-cli)|[Youtube](https://www.youtube.com/watch?v=yIZjEuULFos)|SwiftUI|Submitted|
