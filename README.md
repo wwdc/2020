@@ -45,6 +45,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2020/edit/mas
 |[Fernando Fontecha](http://ferfontecha.com)||[YouTube](https://www.youtube.com/watch?v=zi2J60IKbKw)|UIKit, Core Animation, PlaygroundSupport|Accepted|
 |[Frank Foster](https://twitter.com/frankefoster)|[Github](https://github.com/analogpotato/WWDCSubmission)||AVFoundation, Vision, VisionKit|Submitted|
 |[Glenn Brannelly](http://glennbrannelly.com/)||[YouTube](https://youtu.be/lQAr6TQetm4)|SpriteKit, SceneKit|Submitted|
+|[Hariharan Murugesan](https://hariharanm.com/)|||ARKit & SceneKit| Accepted |
 |[Hengyu Liu](https://www.instagram.com/a211212abc/)|[GitHub](https://github.com/a211212abc/WWDC20)||SwiftUI, ARKit, SpriteKit|Submitted|
 |[Henrik Storch](https://twitter.com/thisisthefoxe)|[GitHub](https://github.com/thisIsTheFoxe/WWDC20)|(later)|SpriteKit|Submitted|
 |[Ihwan D](https://ihwan.id)|[GitHub](https://github.com/IhwanID/wwdc20-rice-cooker-hack)|[YouTube](https://youtu.be/0fgdYEAn6MQ)|SwiftUI, AVFoundation|Submitted|
