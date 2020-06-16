@@ -70,7 +70,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2020/edit/mas
 |[Michał Cichecki](https://linkedin.com/in/mcichecki/)|[Github](https://github.com/mcichecki/emoji-rebus)||AppKit, AVFoundation, SpriteKit|Accepted|
 |[Mike Ovyan](https://github.com/ovyan)|[GitHub](https://github.com/ovyan/graph_path)||UIKit|Accepted|
 |[Minhyuk Kim](https://github.com/mininny)|[Github](https://github.com/mininny/RockPaperScissors-WWDC20)||ARKit,CoreML, Vision, UIKit|Accepted|
-|[Mohamed Salah](https://mohasalah.com)|[Github](https://github.com/mohasalahh/WWDC20-Scholarship-Submission)|[Youtube](https://youtu.be/-EOhFATLLt8)|SceneKit, ARKit, UIKit|Submitted|
+|[Mohamed Salah](https://mohasalah.com)|[Github](https://github.com/mohasalahh/WWDC20-Scholarship-Submission)|[Youtube](https://youtu.be/-EOhFATLLt8)|SceneKit, ARKit, UIKit|Accepted|
 |[Muhammad Dary Azhari](https://primyindonesia.com)||[Youtube](https://youtu.be/2s-Loc5hTMY)|AVFoundation, UIKit|Submitted|
 |[Murilo Teixeira](https://www.linkedin.com/in/murilot/)||[Youtube](https://youtu.be/uJfihjMoCxg)|SpriteKit, GKStateMachine, NSTouchBar|Accepted|
 |[Nalin Bhardwaj](https://nibnalin.me)|||SwiftUI, SpriteKit, CoreML|Accepted|
@@ -106,7 +106,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2020/edit/mas
 |[Umar Haroon](https://twitter.com/umar__haroon)|[GitHub](https://github.com/Umar-M-Haroon/WWDC2020)||ARKit, SceneKit, SwiftUI, UIKit|Accepted|
 |[Valentino Cerutti](https://twitter.com/micrograx)|[GitHub](https://github.com/Micrograx/Emotions-WWDC20)||SwiftUI, AVFoundation|Rejected|
 |[Wendy Liga](https://twitter.com/wendyliga)|[GitHub](https://github.com/wendyliga/tunery)|[Youtube](https://youtu.be/L17PW6inUzw)|AVFoundation, UIKit|Accepted|
-|[William Taylor](https://twitter.com/wfltaylor)||[YouTube](https://youtu.be/TKM9Sut60fs)|UIKit, SceneKit, ARKit, AVFoundation|Accepted|
+|[William Taylor](https://twitter.com/wfltaylor)||[YouTube](https://youtu.be/TKM9Sut60fs)|UIKit, SceneKit, ARKit, AVFoundation|Submitted|
 |[Witek Bobrowski](https://twitter.com/witekbobrowski)|[GitHub](https://github.com/witekbobrowski/wwdc20-submission)||SwiftUI|Rejected|
 |[Veit Progl](https://twitter.com/VoxelVoxels)|[GitHub](https://github.com/Veeit/WWDC-2020-Learning-Disability)|[Youtube](https://youtu.be/8qhFrv4MEPg)|SwiftUI, SceneKit, ARKit,CoreML |Accepted|
 |Xi Zhao|[GitHub](https://github.com/ZXXZ00/WWDC20)|[YouTube](https://youtu.be/RMyHlFH0348)|CoreMotion, SpriteKit|Submitted|
