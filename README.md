@@ -32,6 +32,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2020/edit/mas
 |[Bruno Pastre](https://instagram.com/pastresome)|[Github](https://github.com/pastre/wwdc2020)|[Youtube](https://www.youtube.com/watch?v=5ewAP9lBV40)|SpriteKit|Submitted|
 |[Cameron Bernhardt](https://twitter.com/AstroCB)|[GitHub](https://github.com/AstroCB/Swift-COVID)||AppKit, MapKit|Submitted|
 |[Can Balkaya](https://twitter.com/canbalkya)|[Github](https://github.com/canbalkya/Evape-WWDC20)|[YouTube](https://www.youtube.com/watch?v=QMQnLFypW3Y)|SwiftUI|Submitted|
+|[Carlos Modinez](https://www.linkedin.com/in/carlos-modinez/)|[Github](https://github.com/CarlosModinez/SmartTraffic-WWDC2020)|[YouTube](https://www.youtube.com/watch?v=FQvwIVXCQus&feature=emb_title)|SpriteKit|Accepted|
 |[Christian P](https://twitter.com/Priva2804)|[Github](https://github.com/Priva28/PlanetARium)|[Youtube](https://youtu.be/EwPspV8ZUp4)|SwiftUI, ARKit, SceneKit, Vision|Submitted|
 |[Dave Jha](https://www.davejha.me)|[GitHub](https://github.com/DaveJha/Social-Distancing-Simulator)||SwiftUI, SpriteKit|Submitted|
 |[Daniel (Shao Cheng) Pan](https://github.com/Majestic-Hero)|[GitHub](https://github.com/Majestic-Hero/WWDC-2020-Submission)|[Youtube](https://www.youtube.com/watch?v=eyAY9Dkrsak)|SpriteKit, UIKit|Submitted|
