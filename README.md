@@ -91,7 +91,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2020/edit/mas
 |[Til Blechschmidt](https://github.com/TilBlechschmidt)|[GitHub](https://github.com/TilBlechschmidt/BoidsPlayground)|[YouTube](https://youtu.be/dcuUWqUO91w)|Metal, SwiftUI, AVFoundation|Submitted|
 |[Uladzislau Tarasevich](https://github.com/Sencudra)|[GitHub](https://github.com/Sencudra/WWDC-2020)|[YouTube](https://youtu.be/-gmsWnv3UZ8)|SpriteKit, AVFoundation|Submitted|
 |[Valentino Cerutti](https://twitter.com/micrograx)|[GitHub](https://github.com/Micrograx/Emotions-WWDC20)||SwiftUI, AVFoundation|Submitted|
-|[Wendy Liga](https://twitter.com/wendyliga)|[GitHub](https://github.com/wendyliga/tunery)|[Youtube](https://youtu.be/L17PW6inUzw)|AVFoundation, UIKit|Submitted|
+|[Wendy Liga](https://twitter.com/wendyliga)|[GitHub](https://github.com/wendyliga/tunery)|[Youtube](https://youtu.be/L17PW6inUzw)|AVFoundation, UIKit|Accepted|
 |[William Taylor](https://twitter.com/wfltaylor)||[YouTube](https://youtu.be/TKM9Sut60fs)|UIKit, SceneKit, ARKit, AVFoundation|Submitted|
 |[Witek Bobrowski](https://twitter.com/witekbobrowski)|[GitHub](https://github.com/witekbobrowski/wwdc20-submission)||SwiftUI|Submitted|
 |Xi Zhao|[GitHub](https://github.com/ZXXZ00/WWDC20)|[YouTube](https://youtu.be/RMyHlFH0348)|CoreMotion, SpriteKit|Submitted|
