@@ -64,7 +64,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2020/edit/mas
 |[Mariana Beilune Abad](https://www.linkedin.com/in/mariana-abad/)|[GitHub](https://github.com/maaryhabad/armenia)|[Youtube](https://www.youtube.com/watch?v=G4w_gSMjiyQ)|SceneKit|Submitted|
 |[Marlon Lückert](https://twitter.com/marlon360)|[GitHub](https://github.com/marlon360/wwdc20-submission)|[Youtube](https://www.youtube.com/watch?v=Yvs1eFle1sc)|SwiftUI, CoreML, PencilKit, ARKit|Submitted|
 |[Manthan Keim](http://manthankeim.tech)|[GitHub](http://github.com/ManthanKeim/COVID19-Learner-Game)|[Youtube](https://youtu.be/ICt1kXr78uQ)|UIKit, GameplayKit, AVFoundation, AudioToolbox|Submitted|
-|[Matheus Fogiatto](https://www.instagram.com/matheus.fogiatto)|[GitHub](https://github.com/matheusfogiatto/TheHealthJourney)|[Youtube](https://youtu.be/OtrIBNOJ2AE)|SpriteKit|Submitted|
+|[Matheus Fogiatto](https://www.instagram.com/matheus.fogiatto)|[GitHub](https://github.com/matheusfogiatto/TheHealthJourney)|[Youtube](https://youtu.be/OtrIBNOJ2AE)|SpriteKit|Accepted|
 |[Michał Cichecki](https://linkedin.com/in/mcichecki/)|[Github](https://github.com/mcichecki/emoji-rebus)||AppKit, AVFoundation, SpriteKit|Accepted|
 |[Minhyuk Kim](https://github.com/mininny)|[Github](https://github.com/mininny/RockPaperScissors-WWDC20)||ARKit,CoreML, Vision, UIKit|Accepted|
 |[Mohamed Salah](https://mohasalah.com)|[Github](https://github.com/mohasalahh/WWDC20-Scholarship-Submission)|[Youtube](https://youtu.be/-EOhFATLLt8)|SceneKit, ARKit, UIKit|Submitted|
