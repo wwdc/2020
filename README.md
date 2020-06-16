@@ -37,7 +37,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2020/edit/mas
 |[Daniel (Shao Cheng) Pan](https://github.com/Majestic-Hero)|[GitHub](https://github.com/Majestic-Hero/WWDC-2020-Submission)|[Youtube](https://www.youtube.com/watch?v=eyAY9Dkrsak)|SpriteKit, UIKit|Submitted|
 |[Deniz Karakay](https://www.instagram.com/sedna_karakay)|[Github](https://github.com/dkarakay/Stop-Pandemic)||SpriteKit, AVFoundation, SwiftUI|Submitted|
 |[Devi Mandasari](https://www.instagram.com/devimandas14)|[Github](https://github.com/devimandas/WWDC20-Gonggong)|[Youtube](https://www.youtube.com/watch?v=DNXkG2Ow4ZY)|SpriteKit, AVFoundation|Submitted|
-|[Duraid Abdul](https://twitter.com/duraidabdul/)|[GitHub](https://github.com/duraidabdul/Sleep)||UIKit, SwiftUI, Core Motion|Submitted|
+|[Duraid Abdul](https://twitter.com/duraidabdul/)|[GitHub](https://github.com/duraidabdul/Sleep)||UIKit, SwiftUI, Core Motion|Accepted|
 |[Edgar Vilchis](https://twitter.com/edgarvil96)|[Github](https://github.com/Evil96/WWDC)|[Youtube](https://www.youtube.com/watch?v=uvENDZJteiI)|UIKit, CoreML|Submitted|
 |[Fernando Fontecha](http://ferfontecha.com)||[YouTube](https://www.youtube.com/watch?v=zi2J60IKbKw)|UIKit, Core Animation, PlaygroundSupport|Submitted|
 |[Frank Foster](https://twitter.com/frankefoster)|[Github](https://github.com/analogpotato/WWDCSubmission)||AVFoundation, Vision, VisionKit|Submitted|
