@@ -30,6 +30,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2020/edit/mas
 |[Bartłomiej Pluta](https://github.com/bpluta)|[GitHub](https://github.com/bpluta/Artyficial-Camera)||SwiftUI, CoreML, AVFoundation|Rejected|
 |[Benjamin Hutter](https://www.instagram.com/benjaminhtr/)|[GitHub](https://github.com/benjaminhtr/WWDC20)||UIKit, CoreML, Vision, AVFoundation|Submitted|
 |[Berkin Ceylan](https://twitter.com/BerkinCeylan)|[Github](https://github.com/berkinceylan/WWDC20)|[Youtube](https://www.youtube.com/watch?v=uN7Ea_Ihduw)|SwiftUI|Submitted|
+|[Bradley Klemick](https://bradztech.com)|[GitHub](https://github.com/BradzTech/GravityPlayground)||SpriteKit|Accepted|
 |[Bryanza Novirahman](https://twitter.com/bnrvideos)|[GitHub](https://github.com/bryanzanr/go-cli)|[Youtube](https://www.youtube.com/watch?v=yIZjEuULFos)|SwiftUI|Submitted|
 |[Bruno Pastre](https://instagram.com/pastresome)|[Github](https://github.com/pastre/wwdc2020)|[Youtube](https://www.youtube.com/watch?v=5ewAP9lBV40)|SpriteKit|Submitted|
 |[Cameron Bernhardt](https://twitter.com/AstroCB)|[GitHub](https://github.com/AstroCB/Swift-COVID)||AppKit, MapKit|Submitted|
