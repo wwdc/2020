@@ -106,7 +106,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2020/edit/mas
 |[Renan Magagnin](https://www.instagram.com/renanmagagnin/)|[GitHub](https://github.com/renanmagagnin/beat-wwdc20)|[Youtube](https://youtu.be/ayVB08sXtZY)|SpriteKit, AVFoundation|Accepted|
 |[Renata Faria](http://renatafariagomes.wordpress.com/)|[GitHub](https://github.com/xReee/WWDC2020)|[Youtube](https://www.youtube.com/watch?v=fZ3ilbJx5_8)|UIKit, GameplayKit, AVKit |Submitted|
 |[Rifqi R](http://rifqi.id/)|[GitHub](https://github.com/rif2d/dubsub20)|[Youtube](https://youtu.be/rS2Ln-JC-yQ)|SpriteKit, GameplayKit|Submitted|
-|[Rodrigo Giglio](https://www.instagram.com/rodrigowoulddo/)|[GitHub](https://github.com/rodrigowoulddo/WWDC-2020-The-Bacteria-Adventure)|[YouTube](https://youtu.be/odCptJ5_-_E)|SpriteKit|Submitted|
+|[Rodrigo Giglio](https://www.instagram.com/rodrigowoulddo/)|[GitHub](https://github.com/rodrigowoulddo/WWDC-2020-The-Bacteria-Adventure)|[YouTube](https://youtu.be/odCptJ5_-_E)|SpriteKit|Accepted|
 |[Roman Esin](https://twitter.com/EsinRomanSwift)||[Youtube](https://youtu.be/CZyZTzmclFs)|UIKit|Submitted|
 |[Roman Rakhlin](https://www.instagram.com/rrakhlin/)|[GitHub](https://github.com/romarakhlin/WWDC20-Submission)|[Youtube](https://www.youtube.com/watch?v=i3y5k_khW_I)|UIKit, SceneKit, SpriteKit|Submitted|
 |[Robert Pliev](https://github.com/camotsuc)|[GitHub](https://github.com/camotsuc/wwdc20ChallengeAttempt)||UIKit, Foundation|Rejected|
