@@ -47,6 +47,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2020/edit/mas
 |[Federico Ciardi](https://github.com/fedeci)|[Github](https://github.com/fedeci/WWDC2020)||SpriteKit, AVFoundation|Accepted|
 |[Fernando Fontecha](http://ferfontecha.com)||[YouTube](https://www.youtube.com/watch?v=zi2J60IKbKw)|UIKit, Core Animation, PlaygroundSupport|Accepted|
 |[Frank Foster](https://twitter.com/frankefoster)|[Github](https://github.com/analogpotato/WWDCSubmission)||AVFoundation, Vision, VisionKit|Submitted|
+|[Gleb Losev](https://t.me/higleb)|[Gitlab](https://gitlab.com/hellokurt/dyslexiareader)||UIKit, AVFoundation|Accepted|
 |[Glenn Brannelly](http://glennbrannelly.com/)||[YouTube](https://youtu.be/lQAr6TQetm4)|SpriteKit, SceneKit|Accepted|
 |[Hariharan Murugesan](https://hariharanm.com/)|||ARKit & SceneKit| Accepted |
 |[Hengyu Liu](https://www.instagram.com/a211212abc/)|[GitHub](https://github.com/a211212abc/WWDC20)||SwiftUI, ARKit, SpriteKit|Submitted|
@@ -102,6 +103,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2020/edit/mas
 |[Soumyaditya Choudhuri](https://www.linkedin.com/in/soumchoudhuri/)|[GitHub](https://github.com/soum-c)| |UIKit|Accepted|
 |[Sylvain Guillier](http://sylvainguillier.com)||[Youtube](https://youtu.be/p1fMYYKdKQo)|SwiftUI, UIKit, SpriteKit, AVFoundation|Submitted|
 |[Swapnanil Dhol](https://twitter.com/SwapnanilDhol)|[GitHub](https://github.com/SwapnanilDhol/Strokes)|[Youtube](https://www.youtube.com/watch?v=2k72tGpKbpo)|ARKit, RealityKit, Core ML, Create ML|Accepted|
+|[Thiago Martins](https://www.linkedin.com/in/thiago-martins-0506/)|[GitHub](https://github.com/ThiagoMartins05/The-Golden-Ratio-WWDC2020)||Spritekit|Accepted|
 |[Thijs van der Heijden](https://twitter.com/thijsheijden)|[GitHub](https://github.com/thijsheijden/WWDC20)||UIKit|Submitted|
 |[Til Blechschmidt](https://github.com/TilBlechschmidt)|[GitHub](https://github.com/TilBlechschmidt/BoidsPlayground)|[YouTube](https://youtu.be/dcuUWqUO91w)|Metal, SwiftUI, AVFoundation|Accepted|
 |[Uladzislau Tarasevich](https://github.com/Sencudra)|[GitHub](https://github.com/Sencudra/WWDC-2020)|[YouTube](https://youtu.be/-gmsWnv3UZ8)|SpriteKit, AVFoundation|Submitted|
