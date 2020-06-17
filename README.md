@@ -23,7 +23,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2020/edit/mas
 |[Arjun Dureja](https://www.instagram.com/arjun874)|[GitHub](https://github.com/Arjun-dureja/WWDC-Swift-Student-Challenge)|[YouTube](https://www.youtube.com/watch?v=5zoE_7nQ1N4)|UIKit|Accepted|
 |[Artemas J. Radik](https://www.instagram.com/aj_radik/)|[GitHub](https://github.com/magnesiumm/WWDC20-Swift-Student-Challenge)||UIKit|Accepted|
 |[Arved Viehweger](https://twitter.com/arvedviehweger)||[YouTube](https://www.youtube.com/watch?v=y7FjFwVwM08&feature=youtu.be)|ARKit, SceneKit, UIKit, AVFoundation|Submitted|
-|[Aryan Nambiar](https://twitter.com/ifisq)|[Github](https://github.com/ifisq/Build-A-Piano)||UIKit, AVFoundation|Submitted|
+|[Aryan Nambiar](https://twitter.com/ifisq)|[Github](https://github.com/ifisq/Build-A-Piano)||UIKit, AVFoundation|Accepted|
 |[Ataberk Turan](https://twitter.com/ataberk_trn)|[Github](https://github.com/ataberkturan/LalopathyAI)||SwiftUI, CoreML, Combine|Submitted|
 |[Aurther Nadeem](https://www.instagram.com/aurther_nadeem/)|[GitHub](https://github.com/Aurther-Nadeem/WWDC2020)||ARKit, RealityKit, SwiftUI, AVFoundation|Submitted|
 |[Baskoro Indrayana](https://github.com/baskoroi)|[GitHub](https://github.com/baskoroi/wwdc20-submission)|[YouTube](https://youtu.be/pU6q3clW3w8)|SwiftUI, Combine|Submitted|
