@@ -120,6 +120,6 @@ To add your own project below, just [edit](https://github.com/wwdc/2020/edit/mas
 |[Yangyang Feng](https://ifffff.cn/)|[GitHub](https://github.com/CynricFeng/Papercutting)|[YouTube](https://youtu.be/QxQufi4qQm4)|AppKit, Vision, SpriteKit, AVFoundation|Submitted|
 |[Yihan Huang](https://busybunny.xyz/)|[GitHub](https://github.com/GetToSet/ArtOfAscii)||AVFoundation, Accelerate, UIKit|Accepted|
 |[YiZhong Qi](https://github.com/qyz777)|[GitHub](https://github.com/qyz777/AcousticShip)||AVFoundation, UIKit|Submitted|
-|[Yow Shin Liou](https://www.instagram.com/yo_zn/)|[GitHub](https://github.com/yozn/wwdc20)|[YouTube](https://youtu.be/qHv2Xpb3tdQ)|SpriteKit, AVFoundation, UIKit|Submitted|
+|[Yow Shin Liou](https://www.instagram.com/yo_zn/)|[GitHub](https://github.com/yozn/wwdc20)|[YouTube](https://youtu.be/qHv2Xpb3tdQ)|SpriteKit, AVFoundation, UIKit|Accepted|
 |[Zafar Ivaev](https://github.com/zafarivaev)|[GitHub](https://github.com/zafarivaev/WWDC20-FigureBreaker)||Combine, UIKit, SceneKit, SpriteKit|Accepted|
 |[Zhiyu Zhu](https://github.com/ApolloZhu)|[GitHub](https://github.com/ApolloZhu/Swifty-Podcast-Editor)||SwiftUI, Combine, Speech, AVFoundation|Rejected|
