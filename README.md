@@ -49,6 +49,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2020/edit/mas
 |[Federico Ciardi](https://github.com/fedeci)|[Github](https://github.com/fedeci/WWDC2020)||SpriteKit, AVFoundation|Accepted|
 |[Fernando Fontecha](http://ferfontecha.com)||[YouTube](https://www.youtube.com/watch?v=zi2J60IKbKw)|UIKit, Core Animation, PlaygroundSupport|Accepted|
 |[Frank Foster](https://twitter.com/frankefoster)|[Github](https://github.com/analogpotato/WWDCSubmission)||AVFoundation, Vision, VisionKit|Submitted|
+|[Fred P](https://github.com/fredpi)|[GitHub](https://github.com/fredpi/WWDC2020)||UIKit, Core Animation, Core Graphics|Accepted|
 |[Gleb Losev](https://t.me/higleb)|[Gitlab](https://gitlab.com/hellokurt/dyslexiareader)||UIKit, AVFoundation|Accepted|
 |[Glenn Brannelly](http://glennbrannelly.com/)||[YouTube](https://youtu.be/lQAr6TQetm4)|SpriteKit, SceneKit|Accepted|
 |[Grey Patterson](https://greypatterson.me)|[GitHub](https://github.com/grey280/SwiftLife)||SwiftUI, Combine|Accepted|
