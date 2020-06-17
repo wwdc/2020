@@ -99,6 +99,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2020/edit/mas
 |[Roman Rakhlin](https://www.instagram.com/rrakhlin/)|[GitHub](https://github.com/romarakhlin/WWDC20-Submission)|[Youtube](https://www.youtube.com/watch?v=i3y5k_khW_I)|UIKit, SceneKit, SpriteKit|Submitted|
 |[Robert Pliev](https://github.com/camotsuc)|[GitHub](https://github.com/camotsuc/wwdc20ChallengeAttempt)||UIKit, Foundation|Rejected|
 |[Roy Rao](https://github.com/RoyRao2333)|[GitHub](https://github.com/RoyRao2333/WWDC20-Scholarship)||Cocoa, Security, Playground Support|Submitted|
+|[Rubén Fernández](https://twitter.com/RubenApps)|[GitHub](https://github.com/Rubenfer)||SwiftUI|Accepted|
 |[Sabesh Bharathi](https://twitter.com/sabeshbharathi)|[GitHub](https://github.com/programVeins/Pandemic)|[Youtube](https://www.youtube.com/watch?v=_wSukFJu3I4)|UIKit, AVFoundation|Submitted|
 |[Sai Vivek Amirishetty](https://twitter.com/SAI_VIVEK_)|[GitHub](https://github.com/vivekboss99/WWDC-2020)| |UIKit|Submitted|
 |[Soumyaditya Choudhuri](https://www.linkedin.com/in/soumchoudhuri/)|[GitHub](https://github.com/soum-c)| |UIKit|Accepted|
