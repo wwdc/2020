@@ -20,6 +20,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2020/edit/mas
 |[Alexandru Turcanu](https://github.com/Pondorasti)|[Github](https://github.com/Pondorasti/SimonDraws)|[Youtube](https://youtu.be/KyiXl2NFWHg)|SwiftUI, PencilKit, CoreML, AVFoundation|Accepted|
 |[Alkan Caner](https://github.com/AlkanCaner)|[GitHub](https://github.com/AlkanCaner/InteractivePicture)|[Youtube](https://www.youtube.com/watch?v=Ght67Ks1Wtg)|SwiftUI|Submitted|
 |[Alvin Hsueh](https://www.instagram.com/qazqwe0922/)|[GitHub](https://github.com/HaXAlvin/WWDC20)||SpriteKit, Foundation, UIKit|Accepted|
+|[Antônio Carlos](https://www.linkedin.com/in/ant%C3%B4nio-carlos-corr%C3%AAa-neto-j%C3%BAnior-4a753816b/)|[GitHub](https://github.com/AntonioCarlosCNJ/WWDC_2020)||SpriteKit|Accepted|
 |[Arjun Dureja](https://www.instagram.com/arjun874)|[GitHub](https://github.com/Arjun-dureja/WWDC-Swift-Student-Challenge)|[YouTube](https://www.youtube.com/watch?v=5zoE_7nQ1N4)|UIKit|Accepted|
 |[Artemas J. Radik](https://www.instagram.com/aj_radik/)|[GitHub](https://github.com/magnesiumm/WWDC20-Swift-Student-Challenge)||UIKit|Accepted|
 |[Arved Viehweger](https://twitter.com/arvedviehweger)||[YouTube](https://www.youtube.com/watch?v=y7FjFwVwM08&feature=youtu.be)|ARKit, SceneKit, UIKit, AVFoundation|Submitted|
