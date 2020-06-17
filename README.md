@@ -41,6 +41,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2020/edit/mas
 |[Christian P](https://twitter.com/Priva2804)|[Github](https://github.com/Priva28/PlanetARium)|[Youtube](https://youtu.be/EwPspV8ZUp4)|SwiftUI, ARKit, SceneKit, Vision|Accepted|
 |[Dave Jha](https://www.davejha.me)|[GitHub](https://github.com/DaveJha/Social-Distancing-Simulator)|[Youtube](https://youtu.be/WlbHsg09BxY)|SwiftUI, SpriteKit|Accepted|
 |[Daniel Liu](https://liudaniel.com/)|[GitHub](https://github.com/Daniel-Liu-c0deb0t/WWDC-2020-Coronavirus-Comparison)|[Youtube](https://youtu.be/X12SKO0wGwg)|UIKit|Accepted|
+|[Daniel Leal](https://github.com/danielleal2901)|[GitHub](https://github.com/danielleal2901/WWDC_Dyslexia_2020)||SpriteKit|Accepted|
 |[Daniel (Shao Cheng) Pan](https://github.com/Majestic-Hero)|[GitHub](https://github.com/Majestic-Hero/WWDC-2020-Submission)|[Youtube](https://www.youtube.com/watch?v=eyAY9Dkrsak)|SpriteKit, UIKit|Submitted|
 |[Daniil Dolog](https://github.com/DanDolog)|[GitHub](https://github.com/DanDolog/wwdc2020-Accepted-)|[Youtube](https://youtu.be/5EBop-H8d6A)|SpriteKit, UIKit, AVFoundation|Accepted|
 |[David Knothe](https://github.com/knothed)|[GitHub](https://github.com/knothed/Fractals)||Core Animation|Accepted|
