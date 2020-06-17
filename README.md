@@ -41,6 +41,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2020/edit/mas
 |[Dave Jha](https://www.davejha.me)|[GitHub](https://github.com/DaveJha/Social-Distancing-Simulator)|[Youtube](https://youtu.be/WlbHsg09BxY)|SwiftUI, SpriteKit|Accepted|
 |[Daniel Liu](https://liudaniel.com/)|[GitHub](https://github.com/Daniel-Liu-c0deb0t/WWDC-2020-Coronavirus-Comparison)|[Youtube](https://youtu.be/X12SKO0wGwg)|UIKit|Accepted|
 |[Daniel (Shao Cheng) Pan](https://github.com/Majestic-Hero)|[GitHub](https://github.com/Majestic-Hero/WWDC-2020-Submission)|[Youtube](https://www.youtube.com/watch?v=eyAY9Dkrsak)|SpriteKit, UIKit|Submitted|
+|[Daniil Dolog](https://github.com/DanDolog)|[GitHub](https://github.com/DanDolog/wwdc2020-Accepted-)|[Youtube](https://youtu.be/5EBop-H8d6A)|SpriteKit, UIKit, AVFoundation|Accepted|
 |[David Knothe](https://github.com/knothed)|[GitHub](https://github.com/knothed/Fractals)||Core Animation|Accepted|
 |[Deniz Karakay](https://www.instagram.com/sedna_karakay)|[Github](https://github.com/dkarakay/Stop-Pandemic)||SpriteKit, AVFoundation, SwiftUI|Submitted|
 |[Devi Mandasari](https://www.instagram.com/devimandas14)|[Github](https://github.com/devimandas/WWDC20-Gonggong)|[Youtube](https://www.youtube.com/watch?v=DNXkG2Ow4ZY)|SpriteKit, AVFoundation|Submitted|
@@ -53,6 +54,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2020/edit/mas
 |[Gleb Losev](https://t.me/higleb)|[Gitlab](https://gitlab.com/hellokurt/dyslexiareader)||UIKit, AVFoundation|Accepted|
 |[Glenn Brannelly](http://glennbrannelly.com/)||[YouTube](https://youtu.be/lQAr6TQetm4)|SpriteKit, SceneKit|Accepted|
 |[Grey Patterson](https://greypatterson.me)|[GitHub](https://github.com/grey280/SwiftLife)||SwiftUI, Combine|Accepted|
+|[Haotian Zheng](http://fincher.im/)|[GitHub](https://github.com/JustinFincher/WWDC20Playground)||UIKit Dynamics, SwiftUI, SpriteKit|Accepted|
 |[Hariharan Murugesan](https://hariharanm.com/)|||ARKit & SceneKit| Accepted |
 |[Hengyu Liu](https://www.instagram.com/a211212abc/)|[GitHub](https://github.com/a211212abc/WWDC20)||SwiftUI, ARKit, SpriteKit|Submitted|
 |[Henrik Storch](https://twitter.com/thisisthefoxe)|[GitHub](https://github.com/thisIsTheFoxe/WWDC20)|(later)|SpriteKit|Submitted|
@@ -63,6 +65,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2020/edit/mas
 |[Jannik Schwade](https://twitter.com/jannik_schwade)|[GitHub](https://github.com/jannikschwade/wwdc20)|[YouTube](https://www.youtube.com/watch?v=bY32gZBbTS8)|SpriteKit, UIKit|Rejected|
 |[João Gabriel](https://twitter.com/joogps)|[GitHub](https://github.com/joogps/WWDC-2020)|[YouTube](https://youtu.be/cf-_kp-4W48)|SpriteKit, AVFoundation|Accepted|
 |[Jose Adolfo Talactac](https://twitter.com/joseadolfot)|[GitHub](https://github.com/jadolfot/LearnWithAR)|[YouTube](https://www.youtube.com/watch?v=vNZKRVPVzX4)|ARKit, SceneKit, SpriteKit, simd|Accepted|
+|[Julian Benedikt Heuschen](https://twitter.com/HeuschenJ)|[GitHub](https://github.com/JavaJHMalerBus/wwdc20)||CoreML, Vision, AVFoundation|Accepted|
 |[Julian Schiavo](https://twitter.com/_julianschiavo)|[GitHub](https://github.com/julianschiavo/wwdc/tree/master/2020)|[Youtube](https://www.youtube.com/watch?v=-m74x10IZS4)|ARKit, Combine, RealityKit, SwiftUI|Rejected|
 |[Kanishka Chaudhry](https://www.instagram.com/ralaasi/)|[GitHub](https://github.com/Kanishka3/SwiftStudentChallenge2020)|[Youtube](https://youtu.be/G87_5RRhB9g)|SwiftUI, UIKit, AVFoundation, Combine|Accepted|
 |Keith Madison||[YouTube](https://www.youtube.com/watch?v=D68MrqDGYAI)|UIKit, AVFoundation, NaturalLanguage, CoreML|Submitted|
@@ -103,7 +106,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2020/edit/mas
 |[Robert Pliev](https://github.com/camotsuc)|[GitHub](https://github.com/camotsuc/wwdc20ChallengeAttempt)||UIKit, Foundation|Rejected|
 |[Roy Rao](https://github.com/RoyRao2333)|[GitHub](https://github.com/RoyRao2333/WWDC20-Scholarship)||Cocoa, Security, Playground Support|Accepted|
 |[SungJin Yang](https://www.youtube.com/channel/UCNBMe807H4SV3iSzX7s1bAw)|[Github](https://github.com/CoderLoveMath)||SpriteKit, UIKit|Accepted|
-|[Sabesh Bharathi](https://twitter.com/sabeshbharathi)|[GitHub](https://github.com/programVeins/Pandemic)|[Youtube](https://www.youtube.com/watch?v=_wSukFJu3I4)|UIKit, AVFoundation|Submitted|
+|[Sabesh Bharathi](https://twitter.com/sabeshbharathi)|[GitHub](https://github.com/programVeins/Pandemic)|[Youtube](https://www.youtube.com/watch?v=_wSukFJu3I4)|UIKit, AVFoundation|Rejected|
 |[Sai Vivek Amirishetty](https://twitter.com/SAI_VIVEK_)|[GitHub](https://github.com/vivekboss99/WWDC-2020)| |UIKit|Submitted|
 |[Soumyaditya Choudhuri](https://www.linkedin.com/in/soumchoudhuri/)|[GitHub](https://github.com/soum-c)| |UIKit|Accepted|
 |[Sylvain Guillier](http://sylvainguillier.com)||[Youtube](https://youtu.be/p1fMYYKdKQo)|SwiftUI, UIKit, SpriteKit, AVFoundation|Submitted|
