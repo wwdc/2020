@@ -66,6 +66,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2020/edit/mas
 |[Henrik Storch](https://twitter.com/thisisthefoxe)|[GitHub](https://github.com/thisIsTheFoxe/WWDC20)|(later)|SpriteKit|Submitted|
 |[Henrique Conte](https://www.instagram.com/henriquecontee/)|[Github](https://github.com/henriqueconte/ESCapeEleanorWWDC20-Accepted)|[Youtube](https://www.youtube.com/watch?v=inrIAAM6OCI&feature=youtu.be)|TouchBar, SpriteKit, AVFoundation, AppKit|Accepted|
 |[Ihwan D](https://ihwan.id)|[GitHub](https://github.com/IhwanID/wwdc20-rice-cooker-hack)|[YouTube](https://youtu.be/0fgdYEAn6MQ)|SwiftUI, AVFoundation|Submitted|
+|[Izabella Melo](https://izmcm.github.io/)|[GitHub](https://github.com/izmcm/Cracking-The-Enigma)||UIKit|Accepted|
 |[Jackson Utsch](https://github.com/JacksonUtsch)|[GitHub](https://github.com/JacksonUtsch/WWDC-2020-Project )||SwiftUI, SpriteKit |Submitted|
 |[Jaesung Lee](https://github.com/jaesung-wwdc)|[GitHub](https://github.com/jaesung-wwdc/WWDC20-SwiftStudentChallenge)||ARKit, SceneKit, UIKit, AVFoundation|Accepted|
 |[Jalp Desai](https://github.com/jalp14/WWDC20)|||SwiftUI, SpriteKit, UIKit |Submitted|
