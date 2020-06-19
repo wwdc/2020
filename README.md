@@ -131,7 +131,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2020/edit/mas
 |[Roy Rao](https://github.com/RoyRao2333)|[GitHub](https://github.com/RoyRao2333/WWDC20-Scholarship)||Cocoa, Security, Playground Support|Accepted|
 |[SungJin Yang](https://www.youtube.com/channel/UCNBMe807H4SV3iSzX7s1bAw)|[Github](https://github.com/CoderLoveMath)||SpriteKit, UIKit|Accepted|
 |[Sabesh Bharathi](https://twitter.com/sabeshbharathi)|[GitHub](https://github.com/programVeins/Pandemic)|[Youtube](https://www.youtube.com/watch?v=_wSukFJu3I4)|UIKit, AVFoundation|Rejected|
-|[Sai Vivek Amirishetty](https://twitter.com/SAI_VIVEK_)|[GitHub](https://github.com/vivekboss99/WWDC-2020)| |UIKit|Submitted|
+|[Sai Vivek Amirishetty](https://twitter.com/SAI_VIVEK_)|[GitHub](https://github.com/vivekboss99/WWDC-2020)| |UIKit|Rejected|
 |[Soumyaditya Choudhuri](https://www.linkedin.com/in/soumchoudhuri/)|[GitHub](https://github.com/soum-c)| |UIKit|Accepted|
 |[Sylvain Guillier](http://sylvainguillier.com)||[Youtube](https://youtu.be/p1fMYYKdKQo)|SwiftUI, UIKit, SpriteKit, AVFoundation|Accepted|
 |[Swapnanil Dhol](https://twitter.com/SwapnanilDhol)|[GitHub](https://github.com/SwapnanilDhol/Strokes)|[Youtube](https://www.youtube.com/watch?v=2k72tGpKbpo)|ARKit, RealityKit, Core ML, Create ML|Accepted|
