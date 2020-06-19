@@ -150,6 +150,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2020/edit/mas
 |[William Taylor](https://twitter.com/wfltaylor)||[YouTube](https://youtu.be/TKM9Sut60fs)|UIKit, SceneKit, ARKit, AVFoundation|Accepted|
 |[Witek Bobrowski](https://twitter.com/witekbobrowski)|[GitHub](https://github.com/witekbobrowski/wwdc20-submission)||SwiftUI|Rejected|
 |[Veit Progl](https://twitter.com/VoxelVoxels)|[GitHub](https://github.com/Veeit/WWDC-2020-Learning-Disability)|[Youtube](https://youtu.be/8qhFrv4MEPg)|SwiftUI, SceneKit, ARKit,CoreML |Accepted|
+|[Victor S. Melo](https://www.linkedin.com/in/vsmelo/)|[GitHub](https://github.com/vctrsmelo/WWDC20)|[Youtube](https://youtu.be/ov_U4okydMo)|SwiftUI, AI |Accepted|
 |Xi Zhao|[GitHub](https://github.com/ZXXZ00/WWDC20)|[YouTube](https://youtu.be/RMyHlFH0348)|CoreMotion, SpriteKit|Submitted|
 |[Yangyang Feng](https://cv.ifffff.cn/)|[GitHub](https://github.com/CynricFeng/Papercutting)|[Bilibili](https://www.bilibili.com/video/BV15K4y1t75s/)|AppKit, Vision, SpriteKit, AVFoundation|Accepted|
 |[Yihan Huang](https://busybunny.xyz/)|[GitHub](https://github.com/GetToSet/ArtOfAscii)||AVFoundation, Accelerate, UIKit|Accepted|
