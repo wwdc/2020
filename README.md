@@ -112,6 +112,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2020/edit/mas
 |[Oksana Bolibok](https://github.com/Rok-sana)|[GitHub](https://github.com/Rok-sana/WWDC2020-Logic-Board)|[YouTube](https://youtu.be/O0DEpSXNaI8)|SpriteKit, UIKit, AVSpeechSynthesizer, AVFoundation|Accepted|
 |[Ozawn Mirza](http://ozanmirza1.github.io/)|[GitHub](https://github.com/ozanmirza1/WWDC-2020-Game-Theory)|[Youtube](https://youtu.be/tvPu4AGlc_I)|Foundation, AVFoundation, UIKit, QuartzCore|Rejected|
 |[Palle Klewitz](https://github.com/palle-k)|[GitHub](https://github.com/palle-k/WWDC20)||SwiftUI, Accelerate|Accepted|
+|[Patricia Sampaio](https://www.linkedin.com/in/patrícia-sampaio-5a580919a/)|[GitHub](https://github.com/patysiq/hinadan)||SpriteKit, Foundation|Accepted|
 |[Peter Yaacoub](https://twitter.com/yaapete)|[GitHub](https://github.com/Yaacoub/Swift-Student-Challenge)||AVFoundation, UIKit|Submitted|
 |[Poppy Hwangsa Iswara](https://www.linkedin.com/in/poppy-hwangsa-iswara-8139a1188/)|[GitHub](https://github.com/ppyrinn/WWDC20Playground)||AVFoundation, UIKit, SoundAnalysis, SpriteKit|Accepted|
 |[Prajwal Kulkarni](https://www.instagram.com/prajwalkulkarni_/)|[GitHub](https://github.com/prajwalkulkarni/wwdc2020)|[Youtube](https://www.youtube.com/watch?v=VaLJvLJuMFM)|SwiftUI, SpriteKit|Rejected|
