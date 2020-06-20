@@ -38,7 +38,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2020/edit/mas
 |[BumMo Koo](https://twitter.com/gbmksquare)|[Github](https://github.com/gbmksquare/WWDC-2020)||SceneKit, AVFoundation, PencilKit|Accepted|
 |[Caio Noronha](https://www.linkedin.com/in/caio-noronha-435745168/)|[GitHub](https://github.com/CaioNoronha/DanceChallenge)|[YouTube](https://www.youtube.com/watch?v=Gfo8tdN4iP8)|SpriteKit, AVFoundation |Accepted|
 |[Cameron Bernhardt](https://twitter.com/AstroCB)|[GitHub](https://github.com/AstroCB/Swift-COVID)||AppKit, MapKit|Submitted|
-|[Can Balkaya](https://twitter.com/canbalkya)|[Github](https://github.com/canbalkya/Evape-WWDC20)|[YouTube](https://www.youtube.com/watch?v=QMQnLFypW3Y)|SwiftUI|Submitted|
+|[Can Balkaya](https://twitter.com/canbalkya)|[Github](https://github.com/canbalkya/Evape-WWDC20)|[YouTube](https://www.youtube.com/watch?v=QMQnLFypW3Y)|SwiftUI|Accepted|
 |[Carlos Modinez](https://www.linkedin.com/in/carlos-modinez/)|[Github](https://github.com/CarlosModinez/SmartTraffic-WWDC2020)|[YouTube](https://www.youtube.com/watch?v=FQvwIVXCQus)|SpriteKit|Accepted|
 |[Cay Zhang](https://github.com/Cay-Zhang)|[GitHub](https://github.com/Cay-Zhang/SwiftStudentChallenge2020)|[YouTube](https://youtu.be/A7TtfZyYo3A)|SpriteKit, Combine|Accepted|
 |[Christian P](https://twitter.com/Priva2804)|[Github](https://github.com/Priva28/PlanetARium)|[Youtube](https://youtu.be/EwPspV8ZUp4)|SwiftUI, ARKit, SceneKit, Vision|Accepted|
