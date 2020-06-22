@@ -164,5 +164,6 @@ To add your own project below, just [edit](https://github.com/wwdc/2020/edit/mas
 |[Yow Shin Liou](https://www.instagram.com/yo_zn/)|[GitHub](https://github.com/yozn/wwdc20)|[YouTube](https://youtu.be/qHv2Xpb3tdQ)|SpriteKit, AVFoundation, UIKit|Accepted|
 |[Yugantar Jain](https://github.com/yugantarjain)|[GitHub](https://github.com/yugantarjain/WWDC20)||UIKit, SpriteKit Particles|Accepted|
 |[Zafar Ivaev](https://github.com/zafarivaev)|[GitHub](https://github.com/zafarivaev/WWDC20-FigureBreaker)||Combine, UIKit, SceneKit, SpriteKit|Accepted|
+|[Zhengke Xu](http://xuzhengke.cn)|[Github](https://github.com/ixzk/Spirograph)||UIKit|Accepted|
 |[Zhiyu Zhu](https://github.com/ApolloZhu)|[GitHub](https://github.com/ApolloZhu/Swifty-Podcast-Editor)||SwiftUI, Combine, Speech, AVFoundation|Rejected|
 |[Zixuan Tang](https://github.com/TonyTang2001)|[GitHub](https://github.com/TonyTang2001/SixFeetBetween_WWDC20SwiftChallenge)|[YouTube](https://youtu.be/sj_laBHKu6I)|SwiftUI, AVFoundation|Accepted|
