@@ -30,7 +30,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2020/edit/mas
 |[Aurther Nadeem](https://www.instagram.com/aurther_nadeem/)|[GitHub](https://github.com/Aurther-Nadeem/WWDC2020)||ARKit, RealityKit, SwiftUI, AVFoundation|Submitted|
 |[Baskoro Indrayana](https://github.com/baskoroi)|[GitHub](https://github.com/baskoroi/wwdc20-submission)|[YouTube](https://youtu.be/pU6q3clW3w8)|SwiftUI, Combine|Rejected|
 |[Bartłomiej Pluta](https://github.com/bpluta)|[GitHub](https://github.com/bpluta/Artyficial-Camera)||SwiftUI, CoreML, AVFoundation|Rejected|
-|[Benjamin Hutter](https://www.instagram.com/benjaminhtr/)|[GitHub](https://github.com/benjaminhtr/WWDC20)||UIKit, CoreML, Vision, AVFoundation|Submitted|
+|[Benjamin Hutter](https://www.instagram.com/benjaminhtr/)|[GitHub](https://github.com/benjaminhtr/WWDC20)||UIKit, CoreML, Vision, AVFoundation|Rejected|
 |[Benji Burgess](https://twitter.com/benjjiburgess)|[Github](https://github.com/benjiburgess/WWDC20-Scholarship)||SwiftUI|Accepted|
 |[Berkin Ceylan](https://twitter.com/BerkinCeylan)|[Github](https://github.com/berkinceylan/WWDC20)|[Youtube](https://www.youtube.com/watch?v=uN7Ea_Ihduw)|SwiftUI|Submitted|
 |[Bradley Klemick](https://bradztech.com)|[GitHub](https://github.com/BradzTech/GravityPlayground)||SpriteKit|Accepted|
