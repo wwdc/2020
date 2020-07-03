@@ -65,6 +65,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2020/edit/mas
 |[Giovanni Gorgone](https://linkedin.com/in/giovanni-gorgone)|[GitHub](https://github.com/ggorgone/WWDC2020_submission)||SwiftUI, AVFoundation|Accepted|
 |[Gleb Losev](https://t.me/higleb)|[Gitlab](https://gitlab.com/hellokurt/dyslexiareader)||UIKit, AVFoundation|Accepted|
 |[Glenn Brannelly](http://glennbrannelly.com/)||[YouTube](https://youtu.be/lQAr6TQetm4)|SpriteKit, SceneKit|Accepted|
+|[Grant Emerson](https://github.com/GrantJEmerson/)|[Github](https://github.com/GrantJEmerson/Clipstrument)|[Youtube](https://youtu.be/VWTPXvdipn0)|UIKit, AVFoundation|Accepted|
 |[Grey Patterson](https://greypatterson.me)|[GitHub](https://github.com/grey280/SwiftLife)||SwiftUI, Combine|Accepted|
 |[Haotian Zheng](http://fincher.im/)|[GitHub](https://github.com/JustinFincher/WWDC20Playground)||UIKit Dynamics, SwiftUI, SpriteKit|Accepted|
 |[Hariharan Murugesan](https://hariharanm.com/)|||ARKit & SceneKit| Accepted |
