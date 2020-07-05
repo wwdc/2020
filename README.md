@@ -79,6 +79,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2020/edit/mas
 |[Jannik Schwade](https://twitter.com/jannik_schwade)|[GitHub](https://github.com/jannikschwade/wwdc20)|[YouTube](https://www.youtube.com/watch?v=bY32gZBbTS8)|SpriteKit, UIKit|Rejected|
 |[Javier Gallo Roca](https://www.javiergalloroca.com)|[GitHub](https://github.com/Happygallo/ColorEmotionsPalette)|[Youtube](https://youtu.be/f0-avTA32Yg)|SwiftUI|Accepted|
 |[João Gabriel](https://twitter.com/joogps)|[GitHub](https://github.com/joogps/WWDC-2020)|[YouTube](https://youtu.be/cf-_kp-4W48)|SpriteKit, AVFoundation|Accepted|
+|[João Paulo Santos](https://www.linkedin.com/in/joao-ppsantos/)|[GitHub](https://github.com/jppsantos/WWDC_EmpathyChallenge)|[YouTube](https://www.youtube.com/watch?v=8C5BjjiLf5Y)|SpriteKit, GameplayKit|Accepted|
 |[John Atkinson](https://johnatkinson.net/trophy-case/swift-student-challenge)|||SpriteKit|Accepted|
 |[Jose Adolfo Talactac](https://twitter.com/joseadolfot)|[GitHub](https://github.com/jadolfot/LearnWithAR)|[YouTube](https://www.youtube.com/watch?v=vNZKRVPVzX4)|ARKit, SceneKit, SpriteKit, simd|Accepted|
 |[Joseph Kokenge](https://www.instagram.com/jokokrispy/)|[GitHub](https://github.com/JOyo246/SwiftStudentChallengeSubmission2020)|[YouTube](https://www.youtube.com/watch?v=L2JxtWiTg5I)|CryptoKit, UIKit|Accepted|
