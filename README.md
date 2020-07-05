@@ -120,6 +120,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2020/edit/mas
 |[Niall Kehoe](https://twitter.com/Niall_Kehoe)||[Youtube](https://www.youtube.com/watch?v=nbuuas18zgA)|ARKit, CoreML, CreateML, SpriteKit|Accepted|
 |[Niklas Bülow](https://twitter.com/NiklasBuelow)|[GitHub](https://github.com/insightmind/WWDC20SwiftStudentChallenge)||SpriteKit, CoreImage, SIMD|Accepted|
 |[Oksana Bolibok](https://github.com/Rok-sana)|[GitHub](https://github.com/Rok-sana/WWDC2020-Logic-Board)|[YouTube](https://youtu.be/O0DEpSXNaI8)|SpriteKit, UIKit, AVSpeechSynthesizer, AVFoundation|Accepted|
+|[Oskar Chybowski](https://github.com/Oschly)|[GitHub](https://github.com/Oschly/SSC20_Submission)||UIKit|Accepted|
 |[Ozawn Mirza](http://ozanmirza1.github.io/)|[GitHub](https://github.com/ozanmirza1/WWDC-2020-Game-Theory)|[Youtube](https://youtu.be/tvPu4AGlc_I)|Foundation, AVFoundation, UIKit, QuartzCore|Rejected|
 |[Palle Klewitz](https://github.com/palle-k)|[GitHub](https://github.com/palle-k/WWDC20)||SwiftUI, Accelerate|Accepted|
 |[Patricia Sampaio](https://www.linkedin.com/in/patrícia-sampaio-5a580919a/)|[GitHub](https://github.com/patysiq/hinadan)||SpriteKit, Foundation|Accepted|
