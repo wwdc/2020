@@ -94,7 +94,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2020/edit/mas
 |[Maria Fernanda Azolin](https://www.instagram.com/mfernanda_azolin/)|[GitHub](https://github.com/azolinmf/aPathToTheLight-playgroundBook)|[Youtube](https://www.youtube.com/watch?v=p7y_d-d1B-0)|SpriteKit, UIKit|Accepted|
 |[Mariana Beilune Abad](https://www.linkedin.com/in/mariana-abad/)|[GitHub](https://github.com/maaryhabad/armenia)|[Youtube](https://www.youtube.com/watch?v=G4w_gSMjiyQ)|SceneKit|Submitted|
 |[Marlon Lückert](https://twitter.com/marlon360)|[GitHub](https://github.com/marlon360/wwdc20-submission)|[Youtube](https://www.youtube.com/watch?v=Yvs1eFle1sc)|SwiftUI, CoreML, PencilKit, ARKit|Accepted|
-|[Manthan Keim](http://manthankeim.tech)|[GitHub](http://github.com/ManthanKeim/COVID19-Learner-Game)|[Youtube](https://youtu.be/ICt1kXr78uQ)|UIKit, GameplayKit, AVFoundation, AudioToolbox|Submitted|
+|[Manthan Keim](http://manthankeim.tech)|[GitHub](http://github.com/ManthanKeim/COVID19-Learner-Game)|[Youtube](https://youtu.be/ICt1kXr78uQ)|UIKit, GameplayKit, AVFoundation, AudioToolbox|Rejected|
 |[Matheus Fogiatto](https://www.instagram.com/matheus.fogiatto)|[GitHub](https://github.com/matheusfogiatto/TheHealthJourney)|[Youtube](https://youtu.be/OtrIBNOJ2AE)|SpriteKit|Accepted|
 |[Matt Free](https://github.com/MJFree34/)|[GitHub](https://github.com/MJFree34/MusicChordTeacher/)||AVFoundation, UIKit|Rejected|
 |[Maxime Madrau](https://www.instagram.com/maxmad682)|[GitHub](https://github.com/Maxmad68/SwiftStudentChallenge2020)||SpriteKit, PencilKit|Accepted|
