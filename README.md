@@ -170,6 +170,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2020/edit/mas
 |[Veit Progl](https://twitter.com/VoxelVoxels)|[GitHub](https://github.com/Veeit/WWDC-2020-Learning-Disability)|[Youtube](https://youtu.be/8qhFrv4MEPg)|SwiftUI, SceneKit, ARKit,CoreML |Accepted|
 |[Victor S. Melo](https://www.linkedin.com/in/vsmelo/)|[GitHub](https://github.com/vctrsmelo/WWDC20)|[Youtube](https://youtu.be/ov_U4okydMo)|SwiftUI, AI |Accepted|
 |Xi Zhao|[GitHub](https://github.com/ZXXZ00/WWDC20)|[YouTube](https://youtu.be/RMyHlFH0348)|CoreMotion, SpriteKit|Submitted|
+|[Xu Haobo](https://www.linkedin.com/in/浩博-徐-65b392122/)|[GitHub](https://github.com/haoboxuxu)|[Youtube](https://youtu.be/jxMOE_OQPAY)|SpriteKit, SceneKit, ARKit|Accepted|
 |[Yangyang Feng](https://cv.ifffff.cn/)|[GitHub](https://github.com/CynricFeng/Papercutting)|[Bilibili](https://www.bilibili.com/video/BV15K4y1t75s/)|AppKit, Vision, SpriteKit, AVFoundation|Accepted|
 |[Yihan Huang](https://busybunny.xyz/)|[GitHub](https://github.com/GetToSet/ArtOfAscii)||AVFoundation, Accelerate, UIKit|Accepted|
 |[YiZhong Qi](https://github.com/qyz777)|[GitHub](https://github.com/qyz777/AcousticShip)||AVFoundation, UIKit|Submitted|
