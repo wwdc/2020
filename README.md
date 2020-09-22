@@ -77,6 +77,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2020/edit/mas
 |[Izabella Melo](https://izmcm.github.io/)|[GitHub](https://github.com/izmcm/Cracking-The-Enigma)||UIKit|Accepted|
 |[Jackson Utsch](https://github.com/JacksonUtsch)|[GitHub](https://github.com/JacksonUtsch/WWDC-2020-Project )||SwiftUI, SpriteKit |Submitted|
 |[Jaesung Lee](https://github.com/jaesung-wwdc)|[GitHub](https://github.com/jaesung-wwdc/WWDC20-SwiftStudentChallenge)||ARKit, SceneKit, UIKit, AVFoundation|Accepted|
+|[Jake Spann](https://twitter.com/JakeS3231)|[GitHub](https://github.com/Jake3231/Cybersecurity-101)||SpriteKit|Accepted|
 |[Jalp Desai](https://github.com/jalp14/WWDC20)|||SwiftUI, SpriteKit, UIKit |Submitted|
 |[Jannik Schwade](https://twitter.com/jannik_schwade)|[GitHub](https://github.com/jannikschwade/wwdc20)|[YouTube](https://www.youtube.com/watch?v=bY32gZBbTS8)|SpriteKit, UIKit|Rejected|
 |[Javier Gallo Roca](https://www.javiergalloroca.com)|[GitHub](https://github.com/Happygallo/ColorEmotionsPalette)|[Youtube](https://youtu.be/f0-avTA32Yg)|SwiftUI|Accepted|
