@@ -16,6 +16,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2020/edit/mas
 | Name | Source |    Videos    | Technologies | Status |
 |------|--------|--------------|--------------|--------|
 |[Ailton Vieira Pinto Filho](https://twitter.com/ailtonvivaz)|[GitHub](https://github.com/ailtonvivaz/WWDC20Playground)|[YouTube](https://youtu.be/Epffk-v0Oww)|UIKit|Accepted|
+|[Albert Rayneer Queiroz](https://www.instagram.com/albertqueiroz_/)|[GitHub](https://github.com/AlbertQueiroz/MagicFlute-WWDC20)|[YouTube](https://www.youtube.com/watch?v=eYtamPAZ4p0)|UIKit, AVFoundation|Accepted|
 |[Alexander Zank](https://twitter.com/AlexLikePlus)|[GitHub](https://github.com/AlexLike/WWDC20Playground)|[YouTube](https://youtu.be/k_1tqM6LmV0)|SwiftUI, SceneKit, Accelerate, ARKit|Submitted|
 |[Alexandru Turcanu](https://github.com/Pondorasti)|[Github](https://github.com/Pondorasti/SimonDraws)|[Youtube](https://youtu.be/KyiXl2NFWHg)|SwiftUI, PencilKit, CoreML, AVFoundation|Accepted|
 |[Aline Gomes de Brito ](https://www.linkedin.com/in/aline-gomes-de-brito-379564165/)|[GitHub](https://github.com/gomesalineagb/wwdc2020)|[YouTube](https://www.youtube.com/watch?v=Z-21mbX28VE)|SpriteKit, AVFoundation|Accepted|
