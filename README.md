@@ -171,6 +171,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2020/edit/mas
 |[Victor S. Melo](https://www.linkedin.com/in/vsmelo/)|[GitHub](https://github.com/vctrsmelo/WWDC20)|[Youtube](https://youtu.be/ov_U4okydMo)|SwiftUI, AI |Accepted|
 |Xi Zhao|[GitHub](https://github.com/ZXXZ00/WWDC20)|[YouTube](https://youtu.be/RMyHlFH0348)|CoreMotion, SpriteKit|Submitted|
 |[Yangyang Feng](https://cv.ifffff.cn/)|[GitHub](https://github.com/CynricFeng/Papercutting)|[Bilibili](https://www.bilibili.com/video/BV15K4y1t75s/)|AppKit, Vision, SpriteKit, AVFoundation|Accepted|
+|[Yauheni Stsefankou](https://www.instagram.com/stefjen07/)|[GitHub](https://github.com/stefjen07/WWDC20-AirportLife)||SpriteKit|Accepted|
 |[Yihan Huang](https://busybunny.xyz/)|[GitHub](https://github.com/GetToSet/ArtOfAscii)||AVFoundation, Accelerate, UIKit|Accepted|
 |[YiZhong Qi](https://github.com/qyz777)|[GitHub](https://github.com/qyz777/AcousticShip)||AVFoundation, UIKit|Submitted|
 |[Yow Shin Liou](https://www.instagram.com/yo_zn/)|[GitHub](https://github.com/yozn/wwdc20)|[YouTube](https://youtu.be/qHv2Xpb3tdQ)|SpriteKit, AVFoundation, UIKit|Accepted|
