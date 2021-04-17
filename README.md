@@ -170,7 +170,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2020/edit/mas
 |[Valentino Cerutti](https://twitter.com/micrograx)|[GitHub](https://github.com/Micrograx/Emotions-WWDC20)||SwiftUI, AVFoundation|Rejected|
 |[Vincent Cai](https://vince14genius.github.io/)|[GitHub](https://github.com/Vince14Genius/WWDC20-Wotagei-x-Music-Game)|(later)|SpriteKit, SwiftUI, SKShader (OpenGL/GLSL)|Accepted|
 |[Vinicius Chagas](https://github.com/vcsoares/)|[GitHub](https://github.com/vcsoares/FourierAndMusic)|[YouTube](https://youtu.be/fZsP1-hPrt0)|SwiftUI, AVFoundation|Accepted|
-|[Vinícius Binder](https://www.linkedin.com/in/viniciusbinder/)|||SpriteKit|Accepted|
+|[Vinícius Binder](https://www.linkedin.com/in/viniciusbinder/)|[GitHub](https://github.com/viniciusbinder/wwdc20-submission)|[YouTube](https://youtu.be/f_LbK6Dhfps)|SpriteKit|Accepted|
 |[Vinícius Bernardes Bonemer](https://www.linkedin.com/in/vbonemer)|[GitHub](https://github.com/viniciusbonemer/Swift-Student-Challenge-2020)|[YouTube](https://www.youtube.com/watch?v=PBUt_Ra_MH8&feature=youtu.be)|UIKit, SpriteKit, Combine, AVFoundation|Accepted|
 |[Vitória Corrêa](https://www.linkedin.com/in/vitória-corrêa-55b928186/)|[GitHub](https://github.com/vofcorrea/wwdc20wemen)||SpriteKit, UIKit|Accepted|
 |[Wendy Liga](https://twitter.com/wendyliga)|[GitHub](https://github.com/wendyliga/tunery)|[Youtube](https://youtu.be/L17PW6inUzw)|AVFoundation, UIKit|Accepted|
