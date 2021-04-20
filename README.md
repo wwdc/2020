@@ -174,6 +174,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2020/edit/mas
 |[Vinícius Bernardes Bonemer](https://www.linkedin.com/in/vbonemer)|[GitHub](https://github.com/viniciusbonemer/Swift-Student-Challenge-2020)|[YouTube](https://www.youtube.com/watch?v=PBUt_Ra_MH8&feature=youtu.be)|UIKit, SpriteKit, Combine, AVFoundation|Accepted|
 |[Vitória Corrêa](https://www.linkedin.com/in/vitória-corrêa-55b928186/)|[GitHub](https://github.com/vofcorrea/wwdc20wemen)||SpriteKit, UIKit|Accepted|
 |[Wendy Liga](https://twitter.com/wendyliga)|[GitHub](https://github.com/wendyliga/tunery)|[Youtube](https://youtu.be/L17PW6inUzw)|AVFoundation, UIKit|Accepted|
+|[Wenzheng "William" Du](https://insightfulaiapps.com)|[GitHub](https://github.com/InsightfulAI/AllAboutFeelings)|[YouTube](https://youtu.be/dNAY4NBPV8k)|CoreML, UIKit, AVFoundation|Accepted|
 |[William Taylor](https://twitter.com/wfltaylor)||[YouTube](https://youtu.be/TKM9Sut60fs)|UIKit, SceneKit, ARKit, AVFoundation|Accepted|
 |[Witek Bobrowski](https://twitter.com/witekbobrowski)|[GitHub](https://github.com/witekbobrowski/wwdc20-submission)||SwiftUI|Rejected|
 |[Veit Progl](https://twitter.com/VoxelVoxels)|[GitHub](https://github.com/Veeit/WWDC-2020-Learning-Disability)|[Youtube](https://youtu.be/8qhFrv4MEPg)|SwiftUI, SceneKit, ARKit,CoreML |Accepted|
