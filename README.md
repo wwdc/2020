@@ -104,6 +104,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2020/edit/mas
 |[Manthan Keim](http://manthankeim.tech)|[GitHub](http://github.com/ManthanKeim/COVID19-Learner-Game)|[Youtube](https://youtu.be/ICt1kXr78uQ)|UIKit, GameplayKit, AVFoundation, AudioToolbox|Rejected|
 |[Matheus Andrade](https://www.linkedin.com/in/matheus-andrade-27592b196/)|[GitHub](https://github.com/matheusvtna/TheBlindMaze)||SpriteKit|Accepted|
 |[Matheus Fogiatto](https://www.instagram.com/matheus.fogiatto)|[GitHub](https://github.com/matheusfogiatto/TheHealthJourney)|[Youtube](https://youtu.be/OtrIBNOJ2AE)|SpriteKit|Accepted|
+|[Matheus Gois](https://github.com/MaatheusGois)||[Youtube](https://youtu.be/C80ta0EaklA)|UIKit, SpriteKit|Accepted|
 |[Matt Free](https://github.com/MJFree34/)|[GitHub](https://github.com/MJFree34/MusicChordTeacher/)||AVFoundation, UIKit|Rejected|
 |[Maxime Madrau](https://www.instagram.com/maxmad682)|[GitHub](https://github.com/Maxmad68/SwiftStudentChallenge2020)||SpriteKit, PencilKit|Accepted|
 |[Michał Cichecki](https://linkedin.com/in/mcichecki/)|[Github](https://github.com/mcichecki/emoji-rebus)||AppKit, AVFoundation, SpriteKit|Accepted|
