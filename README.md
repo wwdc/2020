@@ -97,6 +97,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2020/edit/mas
 |[Liam Rosenfeld](https://liamrosenfeld.com)|[GitHub](https://github.com/liamrosenfeld/STFourierExplainer)||Accelerate, AVFoundation, CoreGraphics, SwiftUI|Accepted|
 |[LiulietLee](https://github.com/LiulietLee)|[GitHub](https://github.com/LiulietLee/nn-playground)||SwiftUI, Combine, MetalPerformanceShaders|Accepted|
 |[Louise P.](https://github.com/lpieri)|[GitHub](https://github.com/lpieri/Meep)||SpriteKit, AVFoundation|Submitted|
+|[M. Bertan Tarakçıoğlu](https://medium.com/@bertan.tarakcioglu)|[GitHub](https://github.com/BertanT/WWDC20-Badge-Creator)||SwiftUI|Accepted|
 |[Maria Fernanda Azolin](https://www.instagram.com/mfernanda_azolin/)|[GitHub](https://github.com/azolinmf/aPathToTheLight-playgroundBook)|[Youtube](https://www.youtube.com/watch?v=p7y_d-d1B-0)|SpriteKit, UIKit|Accepted|
 |[Mariana Beilune Abad](https://www.linkedin.com/in/mariana-abad/)|[GitHub](https://github.com/maaryhabad/armenia)|[Youtube](https://www.youtube.com/watch?v=G4w_gSMjiyQ)|SceneKit|Submitted|
 |[Marlon Lückert](https://twitter.com/marlon360)|[GitHub](https://github.com/marlon360/wwdc20-submission)|[Youtube](https://www.youtube.com/watch?v=Yvs1eFle1sc)|SwiftUI, CoreML, PencilKit, ARKit|Accepted|
