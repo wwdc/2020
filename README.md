@@ -47,6 +47,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2020/edit/mas
 |[Carlo Palumbo](https://www.linkedin.com/in/carlo-palumbo-992358111/)|[Github](https://github.com/patana93/Let-s-Play-With-Digital-Electronics-WWDC20)|[YouTube](https://youtu.be/YgoyxPCzjss)|UIKit|Accepted|
 |[Carlos Modinez](https://www.linkedin.com/in/carlos-modinez/)|[Github](https://github.com/CarlosModinez/SmartTraffic-WWDC2020)|[YouTube](https://www.youtube.com/watch?v=FQvwIVXCQus)|SpriteKit|Accepted|
 |[Cay Zhang](https://github.com/Cay-Zhang)|[GitHub](https://github.com/Cay-Zhang/SwiftStudentChallenge2020)|[YouTube](https://youtu.be/A7TtfZyYo3A)|SpriteKit, Combine|Accepted|
+|[Chong Zhuang Hong]|[Github](https://github.com/ZhuangHong-C/wwdc21_brainstorm)|SpritKit, AVFoundation, CoreML|Rejected|
 |[Christian P](https://twitter.com/Priva2804)|[Github](https://github.com/Priva28/PlanetARium)|[Youtube](https://youtu.be/EwPspV8ZUp4)|SwiftUI, ARKit, SceneKit, Vision|Accepted|
 |[Cristian Garske](https://cristiangars.com)|[Github](https://github.com/CristianGarske/WWDC20)|[YouTube](https://youtu.be/kPVHToiKMJM)|SwiftUI|Accepted|
 |[Dave Jha](https://www.davejha.me)|[GitHub](https://github.com/DaveJha/Social-Distancing-Simulator)|[Youtube](https://youtu.be/WlbHsg09BxY)|SwiftUI, SpriteKit|Accepted|
