@@ -246,7 +246,7 @@ var readmeFile: String {
 List of student submissions for the WWDC \(year) - \(name).
 
 ### How to add your submission?
-1. [Click here](https://github.com/wwdc/\(year)/edit/main/Template.md) to fork this repository and edit the `Template.md` file.
+1. [Click here](https://github.com/wwdc/\(year)/edit/master/Template.md) to fork this repository and edit the `Template.md` file.
 2. Fill out the document based on the example in the comment below.
 3. Make a new Pull Request and wait for the review.
 
