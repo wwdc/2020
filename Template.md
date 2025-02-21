@@ -1,8 +1,8 @@
-Name:
-Status:
-Technologies:
+Name: Chong Zhuang Hong
+Status: Rejected
+Technologies: SpritKit, AVFoundation, CoreML
 
-AboutMeUrl:
+AboutMeUrl: https://github.com/ZhuangHong-C/wwdc21_brainstorm
 SourceUrl:
 VideoUrl:
 
