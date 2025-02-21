@@ -57,6 +57,7 @@ If you would like to update your submission status please find your file in `Sub
 |[David Knothe](https://github.com/knothed)|[GitHub](https://github.com/knothed/Fractals)|-|Core Animation|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Deniz Karakay](https://www.instagram.com/sedna_karakay)|[GitHub](https://github.com/dkarakay/Stop-Pandemic)|[YouTube](https://youtu.be/oOy-9lieXxk)|SpriteKit, AVFoundation, SwiftUI|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Devi Mandasari](https://www.instagram.com/devimandas14)|[GitHub](https://github.com/devimandas/WWDC20-Gonggong)|[YouTube](https://www.youtube.com/watch?v=DNXkG2Ow4ZY)|SpriteKit, AVFoundation|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
+|[Dicky Geraldi](https://github.com/dickygeraldi/)|[GitHub](https://github.com/dickygeraldi/WWDC-2020-Dicky-Geraldi)|-|UIKit, AVFoundation|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Duraid Abdul](https://twitter.com/duraidabdul/)|[GitHub](https://github.com/duraidabdul/Sleep)|-|UIKit, SwiftUI, Core Motion|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Edgar Vilchis](https://twitter.com/edgarvil96)|[GitHub](https://github.com/Evil96/WWDC)|[YouTube](https://www.youtube.com/watch?v=uvENDZJteiI)|UIKit, CoreML|![Rejected](https://img.shields.io/badge/rejected-firebrick?style=for-the-badge)|
 |[Euan Traynor](https://twitter.com/EuanFTraynor)|[GitHub](https://github.com/efalloon/WWDC2020-Accepted)|-|UIKit, AVFoundation|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
@@ -191,4 +192,4 @@ If you would like to update your submission status please find your file in `Sub
 |[Zixuan Tang](https://github.com/TonyTang2001)|[GitHub](https://github.com/TonyTang2001/SixFeetBetween_WWDC20SwiftChallenge)|[YouTube](https://youtu.be/sj_laBHKu6I)|SwiftUI, AVFoundation|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[[Sufiandy Elmy](https://github.com/elmysf)|[GitHub](https://github.com/elmysf/DisinfectantAttackCovid-19)|-|SpriteKit|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 
-##### Total: 175 | Accepted: 126
+##### Total: 176 | Accepted: 126

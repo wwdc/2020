@@ -1,9 +1,9 @@
-Name: Dicky Geraldi
-Status: Submitted
-Technologies: UIKit, AVFoundation
+Name:
+Status:
+Technologies:
 
-AboutMeUrl: https://github.com/dickygeraldi/
-SourceUrl: https://github.com/dickygeraldi/WWDC-2020-Dicky-Geraldi
+AboutMeUrl:
+SourceUrl:
 VideoUrl:
 
 <!---
