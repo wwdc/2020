@@ -1,10 +1,10 @@
 Name: Askar Almukhametov
 Status: Accepted
-Technologies: AVFoundation, UIKit
+Technologies: UIKit, AVFoundation
 
-AboutMeUrl: https://twitter.com/Metah2909
+AboutMeUrl: https://www.instagram.com/almaskar29_09/
 SourceUrl: https://github.com/MetahCoder/Dombra_playground
-VideoUrl: 
+VideoUrl:
 
 <!---
 EXAMPLE
