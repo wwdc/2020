@@ -1,9 +1,9 @@
-Name: Vitória Corrêa
-Status: Accepted
-Technologies: SpriteKit, UIKit
+Name:
+Status:
+Technologies:
 
-AboutMeUrl: https://www.linkedin.com/in/vitória-corrêa-55b928186/
-SourceUrl: https://github.com/vofcorrea/wwdc20wemen
+AboutMeUrl:
+SourceUrl:
 VideoUrl:
 
 <!---
