@@ -1,9 +1,9 @@
 Name:
-Status: Accepted
-Technologies: UIKit, Foundation
+Status:
+Technologies:
 
-AboutMeUrl: https://twitter.com/EuanFTraynor
-SourceUrl: https://github.com/efalloon/WWDC-2020-Swift-Playground-Accepted-
+AboutMeUrl:
+SourceUrl:
 VideoUrl:
 
 <!---
