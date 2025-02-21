@@ -1,9 +1,9 @@
-Name: [Sufiandy Elmy
-Status: Submitted
-Technologies: SpriteKit
+Name:
+Status:
+Technologies:
 
-AboutMeUrl: https://github.com/elmysf
-SourceUrl: https://github.com/elmysf/DisinfectantAttackCovid-19
+AboutMeUrl:
+SourceUrl:
 VideoUrl:
 
 <!---
