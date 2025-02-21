@@ -1,8 +1,8 @@
-Name:
-Status:
-Technologies:
+Name: Muhammad Ilham Ashiddiq Tresnawan
+Status: Submited
+Technologies: SpriteKit
 
-AboutMeUrl:
+AboutMeUrl: https://www.instagram.com/ilham_ashiddiq/
 SourceUrl:
 VideoUrl:
 
