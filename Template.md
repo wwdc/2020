@@ -1,10 +1,10 @@
-Name: Matheus Gois
-Status: Accepted
-Technologies: UIKit, SpriteKit
+Name:
+Status:
+Technologies:
 
-AboutMeUrl: https://github.com/MaatheusGois
-SourceUrl: 
-VideoUrl: https://youtu.be/C80ta0EaklA
+AboutMeUrl:
+SourceUrl:
+VideoUrl:
 
 <!---
 EXAMPLE
