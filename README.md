@@ -116,6 +116,7 @@ If you would like to update your submission status please find your file in `Sub
 |[Mohamed Salah](https://mohasalah.com)|[GitHub](https://github.com/mohasalahh/WWDC20-Scholarship-Submission)|[YouTube](https://youtu.be/-EOhFATLLt8)|SceneKit, ARKit, UIKit|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Muhammad Arif Setyo Aji](https://www.linkedin.com/in/arifsetyoaji18/)|-|-|UIKit|![Rejected](https://img.shields.io/badge/rejected-firebrick?style=for-the-badge)|
 |[Muhammad Dary Azhari](https://primyindonesia.com)|-|[YouTube](https://youtu.be/2s-Loc5hTMY)|AVFoundation, UIKit|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
+|[Muhammad Ilham Ashiddiq Tresnawan](https://www.instagram.com/ilham_ashiddiq/)|-|-|SpriteKit|![Unknown](https://img.shields.io/badge/unknown-grey?style=for-the-badge)|
 |[Murilo Teixeira](https://www.linkedin.com/in/murilot/)|-|[YouTube](https://youtu.be/uJfihjMoCxg)|SpriteKit, GKStateMachine, NSTouchBar|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Nalin Bhardwaj](https://nibnalin.me)|-|-|SwiftUI, SpriteKit, CoreML|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Naman Bishnoi](https://naman.rocks/)|[GitHub](https://github.com/diabloxenon/Swiftspam)|[YouTube](https://youtu.be/w2bR5VMJ9CE)|SwiftUI, CoreGraphics, Foundation|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
@@ -189,4 +190,4 @@ If you would like to update your submission status please find your file in `Sub
 |[Zijian Zhao](https://github.com/JackZhao98)|[GitHub](https://github.com/JackZhao98/Linux-Playground)|-|SwiftUI|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Zixuan Tang](https://github.com/TonyTang2001)|[GitHub](https://github.com/TonyTang2001/SixFeetBetween_WWDC20SwiftChallenge)|[YouTube](https://youtu.be/sj_laBHKu6I)|SwiftUI, AVFoundation|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 
-##### Total: 173 | Accepted: 126
+##### Total: 174 | Accepted: 126
