@@ -1,10 +1,10 @@
-# WWDC 2021 - Swift Student Challenge
-![WWDC2021 Logo](logo.png)
+# WWDC 2020 - Swift Student Challenge
+![WWDC2020 Logo](logo.png)
 
-List of student submissions for the WWDC 2021 - Swift Student Challenge.
+List of student submissions for the WWDC 2020 - Swift Student Challenge.
 
 ### How to add your submission?
-1. [Click here](https://github.com/wwdc/2021/edit/main/Template.md) to fork this repository and edit the `Template.md` file.
+1. [Click here](https://github.com/wwdc/2020/edit/main/Template.md) to fork this repository and edit the `Template.md` file.
 2. Fill out the document based on the example in the comment below.
 3. Make a new Pull Request and wait for the review.
 
@@ -163,6 +163,7 @@ If you would like to update your submission status please find your file in `Sub
 |[Til Blechschmidt](https://github.com/TilBlechschmidt)|[GitHub](https://github.com/TilBlechschmidt/BoidsPlayground)|[YouTube](https://youtu.be/dcuUWqUO91w)|Metal, SwiftUI, AVFoundation|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Uladzislau Tarasevich](https://github.com/Sencudra)|[GitHub](https://github.com/Sencudra/WWDC-2020)|[YouTube](https://youtu.be/-gmsWnv3UZ8)|SpriteKit, AVFoundation|![Rejected](https://img.shields.io/badge/rejected-firebrick?style=for-the-badge)|
 |[Umar Haroon](https://twitter.com/umar__haroon)|[GitHub](https://github.com/Umar-M-Haroon/WWDC2020)|-|ARKit, SceneKit, SwiftUI, UIKit|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
+|[Valentin Silvera](https://valentin.work)|[GitHub](https://github.com/valentinsilvera/wwdc2)|[YouTube](https://www.youtube.com/watch?v=LXJv-Knsdao)|SpriteKit|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[Valentino Cerutti](https://twitter.com/micrograx)|[GitHub](https://github.com/Micrograx/Emotions-WWDC20)|-|SwiftUI, AVFoundation|![Rejected](https://img.shields.io/badge/rejected-firebrick?style=for-the-badge)|
 |[Veit Progl](https://twitter.com/VoxelVoxels)|[GitHub](https://github.com/Veeit/WWDC-2020-Learning-Disability)|[YouTube](https://youtu.be/8qhFrv4MEPg)|SwiftUI, SceneKit, ARKit,CoreML|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Victor S. Melo](https://www.linkedin.com/in/vsmelo/)|[GitHub](https://github.com/vctrsmelo/WWDC20)|[YouTube](https://youtu.be/ov_U4okydMo)|SwiftUI, AI|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
@@ -188,4 +189,4 @@ If you would like to update your submission status please find your file in `Sub
 |[Zijian Zhao](https://github.com/JackZhao98)|[GitHub](https://github.com/JackZhao98/Linux-Playground)|-|SwiftUI|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Zixuan Tang](https://github.com/TonyTang2001)|[GitHub](https://github.com/TonyTang2001/SixFeetBetween_WWDC20SwiftChallenge)|[YouTube](https://youtu.be/sj_laBHKu6I)|SwiftUI, AVFoundation|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 
-##### Total: 172 | Accepted: 126
+##### Total: 173 | Accepted: 126
