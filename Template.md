@@ -1,10 +1,10 @@
-Name: Wenzheng "William" Du
-Status: Accepted
-Technologies: CoreML, UIKit, AVFoundation
+Name:
+Status:
+Technologies:
 
-AboutMeUrl: https://insightfulaiapps.com
-SourceUrl: https://github.com/InsightfulAI/AllAboutFeelings
-VideoUrl: https://youtu.be/dNAY4NBPV8k
+AboutMeUrl:
+SourceUrl:
+VideoUrl:
 
 <!---
 EXAMPLE
