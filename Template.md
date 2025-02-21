@@ -1,10 +1,10 @@
-Name: Valentin Silvera
-Status: Submitted
-Technologies: SpriteKit
+Name:
+Status:
+Technologies:
 
-AboutMeUrl: https://valentin.work
-SourceUrl: https://github.com/valentinsilvera/wwdc2
-VideoUrl: https://www.youtube.com/watch?v=LXJv-Knsdao
+AboutMeUrl:
+SourceUrl:
+VideoUrl:
 
 <!---
 EXAMPLE
