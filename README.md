@@ -47,6 +47,7 @@ If you would like to update your submission status please find your file in `Sub
 |[Carlo Palumbo](https://www.linkedin.com/in/carlo-palumbo-992358111/)|[GitHub](https://github.com/patana93/Let-s-Play-With-Digital-Electronics-WWDC20)|[YouTube](https://youtu.be/YgoyxPCzjss)|UIKit|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Carlos Modinez](https://www.linkedin.com/in/carlos-modinez/)|[GitHub](https://github.com/CarlosModinez/SmartTraffic-WWDC2020)|[YouTube](https://www.youtube.com/watch?v=FQvwIVXCQus)|SpriteKit|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Cay Zhang](https://github.com/Cay-Zhang)|[GitHub](https://github.com/Cay-Zhang/SwiftStudentChallenge2020)|[YouTube](https://youtu.be/A7TtfZyYo3A)|SpriteKit, Combine|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
+|[Chong Zhuang Hong](https://github.com/ZhuangHong-C/wwdc21_brainstorm)|-|-|SpritKit, AVFoundation, CoreML|![Rejected](https://img.shields.io/badge/rejected-firebrick?style=for-the-badge)|
 |[Christian P](https://twitter.com/Priva2804)|[GitHub](https://github.com/Priva28/PlanetARium)|[YouTube](https://youtu.be/EwPspV8ZUp4)|SwiftUI, ARKit, SceneKit, Vision|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Cristian Garske](https://cristiangars.com)|[GitHub](https://github.com/CristianGarske/WWDC20)|[YouTube](https://youtu.be/kPVHToiKMJM)|SwiftUI|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Daniel (Shao Cheng) Pan](https://github.com/Majestic-Hero)|[GitHub](https://github.com/Majestic-Hero/WWDC-2020-Submission)|[YouTube](https://www.youtube.com/watch?v=eyAY9Dkrsak)|SpriteKit, UIKit|![Rejected](https://img.shields.io/badge/rejected-firebrick?style=for-the-badge)|
@@ -193,4 +194,4 @@ If you would like to update your submission status please find your file in `Sub
 |[Zixuan Tang](https://github.com/TonyTang2001)|[GitHub](https://github.com/TonyTang2001/SixFeetBetween_WWDC20SwiftChallenge)|[YouTube](https://youtu.be/sj_laBHKu6I)|SwiftUI, AVFoundation|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[[Sufiandy Elmy](https://github.com/elmysf)|[GitHub](https://github.com/elmysf/DisinfectantAttackCovid-19)|-|SpriteKit|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 
-##### Total: 177 | Accepted: 127
+##### Total: 178 | Accepted: 127
