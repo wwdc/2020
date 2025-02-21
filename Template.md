@@ -1,9 +1,9 @@
-Name: Poppy Hwangsa Iswara
-Status: Accepted
-Technologies: AVFoundation, CreateML, SoundAnalysis, SpriteKit
+Name:
+Status:
+Technologies:
 
-AboutMeUrl: https://www.linkedin.com/in/poppy-hwangsa-iswara-8139a1188/
-SourceUrl: https://github.com/ppyrinn/WWDC20Playground
+AboutMeUrl:
+SourceUrl:
 VideoUrl:
 
 <!---
