@@ -1,4 +1,4 @@
-Name: [Sufiandy Elmy
+Name: Sufiandy Elmy
 Status: Submitted
 Technologies: SpriteKit
 
