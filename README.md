@@ -158,6 +158,7 @@ If you would like to update your submission status please find your file in `Sub
 |[Sai Ranga Reddy](https://twitter.com/irangareddy)|[GitHub](https://github.com/irangareddy/SwiftUI-Trends)|[YouTube](https://youtu.be/4ZkhOWVz00I)|SwiftUI|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Sai Vivek Amirishetty](https://twitter.com/SAI_VIVEK_)|[GitHub](https://github.com/vivekboss99/WWDC-2020)|-|UIKit|![Rejected](https://img.shields.io/badge/rejected-firebrick?style=for-the-badge)|
 |[Soumyaditya Choudhuri](https://www.linkedin.com/in/soumchoudhuri/)|[GitHub](https://github.com/soum-c)|-|UIKit|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
+|[Sufiandy Elmy](https://github.com/elmysf)|[GitHub](https://github.com/elmysf/DisinfectantAttackCovid-19)|-|SpriteKit|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 |[SungJin Yang](https://www.youtube.com/channel/UCNBMe807H4SV3iSzX7s1bAw)|[GitHub](https://github.com/CoderLoveMath)|-|SpriteKit, UIKit|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Swapnanil Dhol](https://twitter.com/SwapnanilDhol)|[GitHub](https://github.com/SwapnanilDhol/Strokes)|[YouTube](https://www.youtube.com/watch?v=2k72tGpKbpo)|ARKit, RealityKit, Core ML, Create ML|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Sylvain Guillier](http://sylvainguillier.com)|-|[YouTube](https://youtu.be/p1fMYYKdKQo)|SwiftUI, UIKit, SpriteKit, AVFoundation|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
@@ -193,6 +194,5 @@ If you would like to update your submission status please find your file in `Sub
 |[Zhiyu Zhu](https://github.com/ApolloZhu)|[GitHub](https://github.com/ApolloZhu/Swifty-Podcast-Editor)|-|SwiftUI, Combine, Speech, AVFoundation|![Rejected](https://img.shields.io/badge/rejected-firebrick?style=for-the-badge)|
 |[Zijian Zhao](https://github.com/JackZhao98)|[GitHub](https://github.com/JackZhao98/Linux-Playground)|-|SwiftUI|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Zixuan Tang](https://github.com/TonyTang2001)|[GitHub](https://github.com/TonyTang2001/SixFeetBetween_WWDC20SwiftChallenge)|[YouTube](https://youtu.be/sj_laBHKu6I)|SwiftUI, AVFoundation|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
-|[[Sufiandy Elmy](https://github.com/elmysf)|[GitHub](https://github.com/elmysf/DisinfectantAttackCovid-19)|-|SpriteKit|![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge)|
 
 ##### Total: 179 | Accepted: 128
