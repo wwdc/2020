@@ -196,4 +196,4 @@ If you would like to update your submission status please find your file in `Sub
 |[Zijian Zhao](https://github.com/JackZhao98)|[GitHub](https://github.com/JackZhao98/Linux-Playground)|-|SwiftUI|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 |[Zixuan Tang](https://github.com/TonyTang2001)|[GitHub](https://github.com/TonyTang2001/SixFeetBetween_WWDC20SwiftChallenge)|[YouTube](https://youtu.be/sj_laBHKu6I)|SwiftUI, AVFoundation|![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge)|
 
-##### Total: 179 | Accepted: 128
+##### Total: 180 | Accepted: 129
