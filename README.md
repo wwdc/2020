@@ -14,7 +14,7 @@ Use the **[update form](https://github.com/wwdc/2020/issues/new?template=update.
 
 ### Submissions
 
-| Participant | Links | Status |
+| Participant | Links<br><img src=".github/spacer.svg" width="2000" height="1" alt=""> | Status |
 |:--|:--|:--|
 | [Ailton Vieira Pinto Filho](https://twitter.com/ailtonvivaz) | [GitHub](https://github.com/ailtonvivaz/WWDC20Playground) · [Video](https://youtu.be/Epffk-v0Oww)<br><sub>UIKit</sub> | ![Winner](https://img.shields.io/badge/winner-green?style=for-the-badge) |
 | [Albert Rayneer Queiroz](https://www.instagram.com/albertqueiroz_/) | [GitHub](https://github.com/AlbertQueiroz/MagicFlute-WWDC20) · [Video](https://www.youtube.com/watch?v=eYtamPAZ4p0)<br><sub>UIKit, AVFoundation</sub> | ![Winner](https://img.shields.io/badge/winner-green?style=for-the-badge) |
